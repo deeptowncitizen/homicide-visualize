@@ -1,5 +1,6 @@
 $(document).ready(function(){
 	initEvents();
+
 	$.event.trigger('loading.app', true);
 
 	Data.load('https://raw.githubusercontent.com/deeptowncitizen/homicide-visualize/master/data/Homicides_by_firearms.csv')
@@ -16,7 +17,14 @@ $(document).ready(function(){
 });
 
 function start(csvData) {
-	var yearDictData = Data.csvDataToDateDict(csvData);
+	var app = new App(csvData);
+	app.addPanel("title");
+
+	$('button[type=submit]').click(function(){
+		app.addPanel("title");
+	});
+
+	/*var yearDictData = Data.csvDataToDateDict(csvData);
 	var labels = ['x', 'A'];
 	var data = [];
 	var index = 1;
@@ -40,14 +48,94 @@ function start(csvData) {
 	var chartOptions = new Graph.ChartOptions();
 	chartOptions.selector = '.app';
 	var chart = new Graph.Chart(chartOptions);
-	chart.draw(data, labels);
+	chart.draw(data, labels);*/
 }
 
+function App(csvData) {
+	var _chartId = 0;
+	var _csvData = csvData;
+	var _panels = [];
 
+	function initDashboard() {
+		$( ".column" ).sortable({
+			connectWith: ".column",
+			handle: ".panel-heading",
+			//cancel: ".portlet-toggle",
+			placeholder: "panel-placeholder ui-corner-all"
+		});
 
+		$('.dashboard').on('click', '.close-panel', (function(e){
+			var id = $(this).closest('.panel').attr('data-panel-id');
+			id = parseInt(id);
+			_panels = $.grep(_panels, function(e, i){
+				if (e.getId() == id) {
+					e.close();
+					return false;
+				}
 
+				return true;
+			});
+		}));
 
+		$('.clear-dashboard').click(function(){
+			closeAllPanels();
+		});
+	}
 
+	function closeAllPanels(){
+		$.each(_panels, function(i, e){ e.close(); });
+		_panels = [];
+	}
+
+	function getNextColumn() {
+		var result = [];
+		$('.column').each(function(i, e){
+			var count = $(this).find('.panel').size();
+			result.push({column: $(this), size: count});
+		});
+
+		result.sort(function(a, b){
+			return a.size < b.size ? -1 : (a.size > b.size ? 1 : 0);
+		});
+
+		return result[0].column;
+	}
+
+	this.getNextChartId = function(){ return ++_chartId; }
+	
+	this.addPanel = function(title){
+		var panel = new Panel(this.getNextChartId(), title, getNextColumn());
+		_panels.push(panel);
+	};
+
+	this.start = function() {
+
+	};
+
+	initDashboard();
+}
+
+function Panel(id, title, parent) {
+	var _data = {
+		id: id,
+		title: title
+	};
+	var _parent = parent;
+
+	var ctor = function() {
+		$( "#dashboard-panel" )
+			.tmpl( _data )
+			.appendTo( _parent );
+	};
+
+	this.close = function() {
+		$(parent).find('.panel[data-panel-id=' + _data.id + ']').remove();
+	}
+
+	this.getId = function(){ return _data.id; }
+
+	ctor();
+}
 
 
 

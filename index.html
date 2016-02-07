@@ -13,6 +13,8 @@
 
     <!-- Optional theme -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+    <link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
 
@@ -38,14 +40,12 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">Brand</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="#">Link</a></li>
-                <li><a href="#">Link</a></li>        
+                <li><a href="#" class="clear-dashboard"><i class="glyphicon glyphicon-erase" style="margin-right: 4px"></i>Remove all</a></li>      
               </ul>
               <form class="navbar-form navbar-right" role="search">
                 <div class="form-group">
@@ -57,7 +57,12 @@
           </div><!-- /.container-fluid -->
         </nav>
       </div>
-      <div class="app"></div>
+      <div class="dashboard container-fluid">
+        <div class="row-fluid">
+          <div class="col-md-6 column"></div>
+          <div class="col-md-6 column"></div>
+        </div>
+      </div>
     </div>
 
     <footer class="footer">
@@ -78,8 +83,19 @@
       </div>
     </div>
 
+
+    <script id="dashboard-panel" type="text/x-jquery-tmpl">
+      <li class="panel panel-info" data-panel-id="${id}">
+        <div class="panel-heading"><span>${title}</span><a href="#" class="pull-right close-panel"><i class="glyphicon glyphicon-remove"></i></a></div>
+        <div class="panel-body">
+          <div class="chart chart-${id}"></div>
+        </div>
+      </li>
+    </script>
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
@@ -87,7 +103,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/dygraph/1.1.1/dygraph-combined.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/es6-promise/3.0.2/es6-promise.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
-
+    <script src="http://ajax.microsoft.com/ajax/jquery.templates/beta1/jquery.tmpl.min.js"></script>
+  
     <script src="scripts/data.js"></script>
     <script src="scripts/graph.js"></script>
     <script src="scripts/app.js"></script>

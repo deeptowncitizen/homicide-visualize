@@ -104,3 +104,29 @@ width: 480px;
 	background-color: rgba(0,0,0,0.01);
 	z-index: 9000;
 }
+
+.dashboard li {
+	list-style: none;
+}
+
+.dashboard .panel-heading {
+	cursor: move;
+}
+
+.panel-placeholder {
+	border: 6px dashed #EEE;
+	background-color: #FDFDFD;
+	min-height: 80px;
+	margin-bottom: 20px;
+}
+
+.panel-placeholder:before {
+	content: 'Drop panel here';
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #777;
+    position: relative;
+    margin-left: -82px;
+    left: 50%;
+    top: 16px;
+}

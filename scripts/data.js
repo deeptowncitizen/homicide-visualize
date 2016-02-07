@@ -1,4 +1,4 @@
-var Data = (function(){
+var data = (function(){
 	function loadFromCsv(csvUrl) {
 		return new Promise(function(resolve, reject){
 			$.get(csvUrl)

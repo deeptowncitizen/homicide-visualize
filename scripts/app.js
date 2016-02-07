@@ -3,7 +3,7 @@ $(document).ready(function(){
 
 	$.event.trigger('loading.app', true);
 
-	Data.load('https://raw.githubusercontent.com/deeptowncitizen/homicide-visualize/master/data/Homicides_by_firearms.csv')
+	data.load('https://raw.githubusercontent.com/deeptowncitizen/homicide-visualize/master/data/Homicides_by_firearms.csv')
 							.then(function(data){
 								start(data);
 								$.event.trigger('loading.app', false);
@@ -17,54 +17,28 @@ $(document).ready(function(){
 });
 
 function start(csvData) {
-	var chart = getChart(csvData);
-
 	var app = new App(csvData);
-	app.addPanel("Average homicides by firearms", chart);
+    app.loadPreset(0);
 
 	$('button[type=submit]').click(function(e){
-		app.addPanel("Average homicides by firearms", chart);
+        var id = parseInt($('#presets-list').select2('data')[0].id);
+        if ($.isNumeric(id))
+		  app.loadPreset(id);
 		e.preventDefault();
 	});
-}
-
-function getChart(csvData) {
-	var yearDictData = Data.csvDataToDateDict(csvData);
-	var labels = ['Year', 'Avg %'];
-	var data = [];
-	var index = 1;
-	for(var year in yearDictData) {
-		var item = [];
-		var percentSum = 0;
-		for(var i = 0; i < yearDictData[year].length; i++) {
-			if (!yearDictData[year][i].percentageHomicidesByFirearms)
-				continue;
-			percentSum += yearDictData[year][i].percentageHomicidesByFirearms;
-		}
-		var avg = percentSum / yearDictData[year].length;
-		item.push(year);
-		item.push(avg);
-		data.push(item);
-	}
-
-	var chartOptions = new Graph.ChartOptions();
-	chartOptions.data = data;
-	chartOptions.labels = labels;
-	chartOptions.yLabel = 'Year';
-	chartOptions.xLabel = 'Homicides by arms, %';
-	return new Graph.Chart(chartOptions);
 }
 
 function App(csvData) {
 	var _chartId = 0;
 	var _csvData = csvData;
+    var _yearDictData = data.csvDataToDateDict(_csvData);
 	var _panels = [];
+    var _presets = presets.all;
 
 	function initDashboard() {
 		$( ".column" ).sortable({
 			connectWith: ".column",
 			handle: ".panel-heading",
-			//cancel: ".portlet-toggle",
 			placeholder: "panel-placeholder ui-corner-all"
 		});
 
@@ -76,7 +50,6 @@ function App(csvData) {
 					e.close();
 					return false;
 				}
-
 				return true;
 			});
 			e.preventDefault();
@@ -115,12 +88,31 @@ function App(csvData) {
 
 		panel.drawChart(chart);
 	};
+    
+    this.loadPreset = function(index) {
+        var preset = _presets[index];
+        if (!preset)
+            $.event.trigger("error.app", {title: 'Invalid preset Id', text: 'Preset Id = ' + index});
+            
+        var chartOptions = new graph.ChartOptions();
+        chartOptions.title = preset.getTitle();
+        chartOptions.options = preset.getOptions();
+        chartOptions.data = preset.getData(new presets.PresetData(_csvData, _yearDictData));
+        var chart = new graph.Chart(chartOptions);
+        
+        this.addPanel(preset.getTitle(), chart);
+    };
 
-	this.start = function() {
-
-	};
-
-	initDashboard();
+	function ctor() {
+        initDashboard();
+        $('.presets-list').find('option').remove();
+        $.each(_presets, function(i, e){
+           $("#presets-list").append($('<option></option>').attr("value", i).text(e.getTitle()));
+        });
+        $('#presets-list').select2({ containerCssClass : "span3" });
+    }
+    
+    ctor();
 }
 
 function Panel(id, title, parent) {

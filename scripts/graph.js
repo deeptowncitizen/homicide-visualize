@@ -1,7 +1,7 @@
-var Graph = (function(){
+var graph = (function(){
 	function ChartOptions() {
-		this.yLabel = '';
-		this.xLabel = '';
+        this.title = '';
+		this.options = {};
 		this.labels = [];
 		this.data = {};
 	}
@@ -9,23 +9,25 @@ var Graph = (function(){
 	function Chart(chartOptions){
 		var options = chartOptions;
 		var _graph = null;
-//$(options.selector)[0]
+
 		this.draw = function(parent){
-			_graph = new Dygraph(parent,
-              options.data,
-              {
-                labels: options.labels,
-                legend: 'always',
-				title: '',
-				titleHeight: 32,
-				ylabel: options.xLabel,
-				xlabel: options.yLabel,
-				labelsDivStyles: {
-					'text-align': 'right',
-					'background': 'none'
-				},
-				strokeWidth: 1.5
-              });
+            var graphOptions = {
+                    labels: [],
+                    legend: 'always',
+                    title: '',
+                    titleHeight: 32,
+                    ylabel: '',
+                    xlabel: '',
+                    labelsDivStyles: {
+                        'text-align': 'right',
+                        'background': 'none'
+				    } ,
+                    strokeWidth: 1.5
+                };
+                
+            $.extend(graphOptions, options.options);
+            
+			_graph = new Dygraph(parent, options.data, graphOptions);
 			_graph.resize();
 		};
 

@@ -17,14 +17,18 @@ $(document).ready(function(){
 });
 
 function start(csvData) {
+	var chart = getChart(csvData);
+
 	var app = new App(csvData);
-	app.addPanel("title");
+	app.addPanel("Average homicides by firearms", chart);
 
 	$('button[type=submit]').click(function(){
-		app.addPanel("title");
+		app.addPanel("Average homicides by firearms", chart);
 	});
+}
 
-	/*var yearDictData = Data.csvDataToDateDict(csvData);
+function getChart(csvData) {
+	var yearDictData = Data.csvDataToDateDict(csvData);
 	var labels = ['x', 'A'];
 	var data = [];
 	var index = 1;
@@ -37,18 +41,17 @@ function start(csvData) {
 			percentSum += yearDictData[year][i].percentageHomicidesByFirearms;
 		}
 		var avg = percentSum / yearDictData[year].length;
-		item.push(new Date('' + year + '/12/13'));
+		item.push(year);
 		item.push(avg);
 		data.push(item);
-
-		if (item.length != 2)
-			throw year;
 	}
 
 	var chartOptions = new Graph.ChartOptions();
-	chartOptions.selector = '.app';
-	var chart = new Graph.Chart(chartOptions);
-	chart.draw(data, labels);*/
+	chartOptions.data = data;
+	chartOptions.labels = labels;
+	chartOptions.yLabel = 'Year';
+	chartOptions.xLabel = 'Homicides by arms, %';
+	return new Graph.Chart(chartOptions);
 }
 
 function App(csvData) {
@@ -103,9 +106,11 @@ function App(csvData) {
 
 	this.getNextChartId = function(){ return ++_chartId; }
 	
-	this.addPanel = function(title){
+	this.addPanel = function(title, chart){
 		var panel = new Panel(this.getNextChartId(), title, getNextColumn());
 		_panels.push(panel);
+
+		panel.drawChart(chart);
 	};
 
 	this.start = function() {
@@ -121,18 +126,30 @@ function Panel(id, title, parent) {
 		title: title
 	};
 	var _parent = parent;
+	var _chart = null;
+	var _self = null;
 
 	var ctor = function() {
 		$( "#dashboard-panel" )
 			.tmpl( _data )
 			.appendTo( _parent );
+
+		_self = $(parent).find('.panel[data-panel-id=' + _data.id + ']');
 	};
 
 	this.close = function() {
-		$(parent).find('.panel[data-panel-id=' + _data.id + ']').remove();
+		_self.remove();
 	}
 
 	this.getId = function(){ return _data.id; }
+
+	this.drawChart = function(chart) {
+		_chart = chart;
+		_chart.draw($(_self).find('.chart')[0]);
+		var w = $(_self).width() - 20;
+		var h = $(_self).height();
+		_chart.resize(w, h);
+	};
 
 	ctor();
 }

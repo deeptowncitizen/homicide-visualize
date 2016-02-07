@@ -1,29 +1,39 @@
 var Graph = (function(){
 	function ChartOptions() {
-		this.width = 0;
-		this.height = 0;
-		this.selector = '';
+		this.yLabel = '';
+		this.xLabel = '';
+		this.labels = [];
+		this.data = {};
 	}
 
 	function Chart(chartOptions){
 		var options = chartOptions;
-
-		this.draw = function(data, labels){
-			new Dygraph($(options.selector)[0],
-              data,
+		var _graph = null;
+//$(options.selector)[0]
+		this.draw = function(parent){
+			_graph = new Dygraph(parent,
+              options.data,
               {
-                labels: labels,
+                labels: options.labels,
                 legend: 'always',
-				title: 'Some title',
+				title: '',
 				titleHeight: 32,
-				ylabel: 'Homicide Avg, %',
-				xlabel: 'Year',
+				ylabel: options.xLabel,
+				xlabel: options.yLabel,
 				labelsDivStyles: {
-				'text-align': 'right',
-				'background': 'none'
+					'text-align': 'right',
+					'background': 'none'
 				},
 				strokeWidth: 1.5
-              }).resize(1400, 1000);
+              });
+			_graph.resize();
+		};
+
+		this.resize = function(w, h) {
+			if (_graph == null)
+				return;
+
+			_graph.resize(w, h);
 		};
 	}
 

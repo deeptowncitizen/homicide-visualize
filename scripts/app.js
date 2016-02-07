@@ -21,10 +21,6 @@ function start(csvData) {
 	var data = [];
 	var index = 1;
 	for(var year in yearDictData) {
-
-		//WAT!?!?
-		if (!year)
-			continue;
 		var item = [];
 		var percentSum = 0;
 		for(var i = 0; i < yearDictData[year].length; i++) {

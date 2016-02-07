@@ -20,7 +20,7 @@ var Data = (function(){
 	function parseCsv(csvData) {
 		var result = [];
 		var lines = csvData.split('\n');
-		for(var i = 0; i < lines.length; i++) {
+		for(var i = 1; i < lines.length-1; i++) {
 			var line = new DataItem(lines[i]);
 			if (!line.isValid)
 				console.log(i);

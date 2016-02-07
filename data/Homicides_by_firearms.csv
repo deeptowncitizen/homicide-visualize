@@ -1,0 +1,1857 @@
+Country,Year,PercentageHomicidesByFirearms,NumberOfHomicidesByFirearms,NumberHomicidesByFirearmsPer100K,Population,Region,Subregion
+Mauritius,1995,,,,1294104,Africa,Eastern Africa
+Mauritius,1996,,,,1294104,Africa,Eastern Africa
+Mauritius,1997,,,,1294104,Africa,Eastern Africa
+Mauritius,1998,,,,1294104,Africa,Eastern Africa
+Mauritius,1999,,,,1294104,Africa,Eastern Africa
+Mauritius,2000,,,,1294104,Africa,Eastern Africa
+Mauritius,2001,,,,1294104,Africa,Eastern Africa
+Mauritius,2002,,,,1294104,Africa,Eastern Africa
+Mauritius,2003,,,,1294104,Africa,Eastern Africa
+Mauritius,2004,,,,1294104,Africa,Eastern Africa
+Mauritius,2005,0,0,0,1294104,Africa,Eastern Africa
+Mauritius,2006,2,1,0.1,1294104,Africa,Eastern Africa
+Mauritius,2007,,,,1294104,Africa,Eastern Africa
+Mauritius,2008,,,,1294104,Africa,Eastern Africa
+Mauritius,2009,,,,1294104,Africa,Eastern Africa
+Mauritius,2010,,,,1294104,Africa,Eastern Africa
+Uganda,1995,,,,33398682,Africa,Eastern Africa
+Uganda,1996,,,,33398682,Africa,Eastern Africa
+Uganda,1997,,,,33398682,Africa,Eastern Africa
+Uganda,1998,,,,33398682,Africa,Eastern Africa
+Uganda,1999,,,,33398682,Africa,Eastern Africa
+Uganda,2000,,,,33398682,Africa,Eastern Africa
+Uganda,2001,,,,33398682,Africa,Eastern Africa
+Uganda,2002,,,,33398682,Africa,Eastern Africa
+Uganda,2003,15.6835205992509,335,1.25743071172042,33398682,Africa,Eastern Africa
+Uganda,2004,17.9599804782821,368,1.33713000740654,33398682,Africa,Eastern Africa
+Uganda,2005,,,,33398682,Africa,Eastern Africa
+Uganda,2006,13.9836795252226,377,1.28361177437673,33398682,Africa,Eastern Africa
+Uganda,2007,12.8178515827711,247,0.814109607169043,33398682,Africa,Eastern Africa
+Uganda,2008,12.7497275699237,351,1.11999620158553,33398682,Africa,Eastern Africa
+Uganda,2009,10.4908205320345,280,0.865054335144108,33398682,Africa,Eastern Africa
+Uganda,2010,,,,33398682,Africa,Eastern Africa
+Zambia,1995,,,,13460305,Africa,Eastern Africa
+Zambia,1996,,,,13460305,Africa,Eastern Africa
+Zambia,1997,,,,13460305,Africa,Eastern Africa
+Zambia,1998,,,,13460305,Africa,Eastern Africa
+Zambia,1999,,,,13460305,Africa,Eastern Africa
+Zambia,2000,,,,13460305,Africa,Eastern Africa
+Zambia,2001,,,,13460305,Africa,Eastern Africa
+Zambia,2002,,,,13460305,Africa,Eastern Africa
+Zambia,2003,,,,13460305,Africa,Eastern Africa
+Zambia,2004,5.60224089635854,20,0.303418542062861,13460305,Africa,Eastern Africa
+Zambia,2005,5.36723163841808,19,0.279557376344502,13460305,Africa,Eastern Africa
+Zambia,2006,4.92227979274611,19,0.271160347657362,13460305,Africa,Eastern Africa
+Zambia,2007,4.60048426150121,19,0.263019232348229,13460305,Africa,Eastern Africa
+Zambia,2008,7.37463126843658,25,0.335683253673403,13460305,Africa,Eastern Africa
+Zambia,2009,4.8469387755102,19,0.247446309526921,13460305,Africa,Eastern Africa
+Zambia,2010,11.7154811715481,28,0.353676680643378,13460305,Africa,Eastern Africa
+Zimbabwe,1995,,,,11651858,Africa,Eastern Africa
+Zimbabwe,1996,,,,11651858,Africa,Eastern Africa
+Zimbabwe,1997,,,,11651858,Africa,Eastern Africa
+Zimbabwe,1998,72.2365038560411,562,4.58336180943947,11651858,Africa,Eastern Africa
+Zimbabwe,1999,68.270332187858,596,4.80442290658557,11651858,Africa,Eastern Africa
+Zimbabwe,2000,65.5701754385965,598,4.78037571035144,11651858,Africa,Eastern Africa
+Zimbabwe,2001,,,,11651858,Africa,Eastern Africa
+Zimbabwe,2002,,,,11651858,Africa,Eastern Africa
+Zimbabwe,2003,,,,11651858,Africa,Eastern Africa
+Zimbabwe,2004,,,,11651858,Africa,Eastern Africa
+Zimbabwe,2005,,,,11651858,Africa,Eastern Africa
+Zimbabwe,2006,,,,11651858,Africa,Eastern Africa
+Zimbabwe,2007,,,,11651858,Africa,Eastern Africa
+Zimbabwe,2008,,,,11651858,Africa,Eastern Africa
+Zimbabwe,2009,,,,11651858,Africa,Eastern Africa
+Zimbabwe,2010,,,,11651858,Africa,Eastern Africa
+Democratic Republic of the Congo,1995,,,,70916439,Africa,Middle Africa
+Democratic Republic of the Congo,1996,,,,70916439,Africa,Middle Africa
+Democratic Republic of the Congo,1997,,,,70916439,Africa,Middle Africa
+Democratic Republic of the Congo,1998,,,,70916439,Africa,Middle Africa
+Democratic Republic of the Congo,1999,,,,70916439,Africa,Middle Africa
+Democratic Republic of the Congo,2000,,,,70916439,Africa,Middle Africa
+Democratic Republic of the Congo,2001,,,,70916439,Africa,Middle Africa
+Democratic Republic of the Congo,2002,,,,70916439,Africa,Middle Africa
+Democratic Republic of the Congo,2003,,,,70916439,Africa,Middle Africa
+Democratic Republic of the Congo,2004,21.8487394957983,156,0.982645411206554,70916439,Africa,Middle Africa
+Democratic Republic of the Congo,2005,19.3742478941035,161,1.01414045643753,70916439,Africa,Middle Africa
+Democratic Republic of the Congo,2006,20.6751054852321,147,0.925954329790792,70916439,Africa,Middle Africa
+Democratic Republic of the Congo,2007,24.8256624825662,178,1.12122361022286,70916439,Africa,Middle Africa
+Democratic Republic of the Congo,2008,17.092866756393,127,0.799974148866874,70916439,Africa,Middle Africa
+Democratic Republic of the Congo,2009,22.1794871794872,173,1.08972856499188,70916439,Africa,Middle Africa
+Democratic Republic of the Congo,2010,33.1994645247657,248,1.56215424345657,70916439,Africa,Middle Africa
+Algeria,1995,,,,34586184,Africa,Northern Africa
+Algeria,1996,,,,34586184,Africa,Northern Africa
+Algeria,1997,,,,34586184,Africa,Northern Africa
+Algeria,1998,,,,34586184,Africa,Northern Africa
+Algeria,1999,,,,34586184,Africa,Northern Africa
+Algeria,2000,,,,34586184,Africa,Northern Africa
+Algeria,2001,,,,34586184,Africa,Northern Africa
+Algeria,2002,,,,34586184,Africa,Northern Africa
+Algeria,2003,2,13,0.0407351606040109,34586184,Africa,Northern Africa
+Algeria,2004,2.00445434298441,9,0.0277811663941231,34586184,Africa,Northern Africa
+Algeria,2005,,,,34586184,Africa,Northern Africa
+Algeria,2006,,,,34586184,Africa,Northern Africa
+Algeria,2007,3.56234096692112,14,0.0412898902735912,34586184,Africa,Northern Africa
+Algeria,2008,4.79616306954436,20,0.0580922032478886,34586184,Africa,Northern Africa
+Algeria,2009,,,,34586184,Africa,Northern Africa
+Algeria,2010,,,,34586184,Africa,Northern Africa
+Egypt,1995,,,,80471869,Africa,Northern Africa
+Egypt,1996,,,,80471869,Africa,Northern Africa
+Egypt,1997,,,,80471869,Africa,Northern Africa
+Egypt,1998,,,,80471869,Africa,Northern Africa
+Egypt,1999,,,,80471869,Africa,Northern Africa
+Egypt,2000,,,,80471869,Africa,Northern Africa
+Egypt,2001,,,,80471869,Africa,Northern Africa
+Egypt,2002,,,,80471869,Africa,Northern Africa
+Egypt,2003,65.5688622754491,219,0.306300419199397,80471869,Africa,Northern Africa
+Egypt,2004,45,99,0.135905007506487,80471869,Africa,Northern Africa
+Egypt,2005,59.0659340659341,215,0.289744858090044,80471869,Africa,Northern Africa
+Egypt,2006,60,264,0.349352129783575,80471869,Africa,Northern Africa
+Egypt,2007,64.4578313253012,321,0.417199690175293,80471869,Africa,Northern Africa
+Egypt,2008,76.2390670553936,523,0.667745119721593,80471869,Africa,Northern Africa
+Egypt,2009,69.0548780487805,453,0.568265901977293,80471869,Africa,Northern Africa
+Egypt,2010,,,,80471869,Africa,Northern Africa
+South Africa,1995,41.5,11153.955,26.9403585299403,49000000,Africa,Southern Africa
+South Africa,1996,44.2,11257.74,26.6924540031781,49000000,Africa,Southern Africa
+South Africa,1997,45.6,11165.616,26.0432522717198,49000000,Africa,Southern Africa
+South Africa,1998,49.4,12412.738,28.5243906152245,49000000,Africa,Southern Africa
+South Africa,1999,49.6,11211.584,25.4015839920764,49000000,Africa,Southern Africa
+South Africa,2000,49.3,10726.694,23.9647071807701,49000000,Africa,Southern Africa
+South Africa,2001,48,10274.4,22.6360338189536,49000000,Africa,Southern Africa
+South Africa,2002,47,10129.91,22.0141711237791,49000000,Africa,Southern Africa
+South Africa,2003,49,9713.76,20.8309583223858,49000000,Africa,Southern Africa
+South Africa,2004,48,9020.64,19.1007327004,49000000,Africa,Southern Africa
+South Africa,2005,46.4,8596.992,17.9880533018508,49000000,Africa,Southern Africa
+South Africa,2006,47.2,9063.344,18.7526848757712,49000000,Africa,Southern Africa
+South Africa,2007,45,8319.15,17.03261805271,49000000,Africa,Southern Africa
+South Africa,2008,,,,49000000,Africa,Southern Africa
+South Africa,2009,,,,49000000,Africa,Southern Africa
+South Africa,2010,,,,49000000,Africa,Southern Africa
+Liberia,1995,,,,3685076,Africa,Western Africa
+Liberia,1996,,,,3685076,Africa,Western Africa
+Liberia,1997,,,,3685076,Africa,Western Africa
+Liberia,1998,,,,3685076,Africa,Western Africa
+Liberia,1999,,,,3685076,Africa,Western Africa
+Liberia,2000,,,,3685076,Africa,Western Africa
+Liberia,2001,,,,3685076,Africa,Western Africa
+Liberia,2002,,,,3685076,Africa,Western Africa
+Liberia,2003,,,,3685076,Africa,Western Africa
+Liberia,2004,,,,3685076,Africa,Western Africa
+Liberia,2005,,,,3685076,Africa,Western Africa
+Liberia,2006,,,,3685076,Africa,Western Africa
+Liberia,2007,10,10,0.287587962373141,3685076,Africa,Western Africa
+Liberia,2008,7.90960451977401,14,0.382674677323245,3685076,Africa,Western Africa
+Liberia,2009,10.3448275862069,15,0.391039563036751,3685076,Africa,Western Africa
+Liberia,2010,13.1782945736434,17,0.425625456608486,3685076,Africa,Western Africa
+Sierra Leone,1995,,,,5245695,Africa,Western Africa
+Sierra Leone,1996,,,,5245695,Africa,Western Africa
+Sierra Leone,1997,,,,5245695,Africa,Western Africa
+Sierra Leone,1998,,,,5245695,Africa,Western Africa
+Sierra Leone,1999,,,,5245695,Africa,Western Africa
+Sierra Leone,2000,,,,5245695,Africa,Western Africa
+Sierra Leone,2001,,,,5245695,Africa,Western Africa
+Sierra Leone,2002,,,,5245695,Africa,Western Africa
+Sierra Leone,2003,,,,5245695,Africa,Western Africa
+Sierra Leone,2004,,,,5245695,Africa,Western Africa
+Sierra Leone,2005,,,,5245695,Africa,Western Africa
+Sierra Leone,2006,,,,5245695,Africa,Western Africa
+Sierra Leone,2007,,,,5245695,Africa,Western Africa
+Sierra Leone,2008,87.6712328767123,128,2.2807743727915,5245695,Africa,Western Africa
+Sierra Leone,2009,,,,5245695,Africa,Western Africa
+Sierra Leone,2010,,,,5245695,Africa,Western Africa
+Anguilla,1995,,,,13254,Americas,Caribbean
+Anguilla,1996,,,,13254,Americas,Caribbean
+Anguilla,1997,,,,13254,Americas,Caribbean
+Anguilla,1998,,,,13254,Americas,Caribbean
+Anguilla,1999,,,,13254,Americas,Caribbean
+Anguilla,2000,,,,13254,Americas,Caribbean
+Anguilla,2001,,,,13254,Americas,Caribbean
+Anguilla,2002,,,,13254,Americas,Caribbean
+Anguilla,2003,,,,13254,Americas,Caribbean
+Anguilla,2004,,,,13254,Americas,Caribbean
+Anguilla,2005,,,,13254,Americas,Caribbean
+Anguilla,2006,24.0362890277225,1,7.13877784123358,13254,Americas,Caribbean
+Anguilla,2007,,,,13254,Americas,Caribbean
+Anguilla,2008,,,,13254,Americas,Caribbean
+Anguilla,2009,,,,13254,Americas,Caribbean
+Anguilla,2010,,,,13254,Americas,Caribbean
+Bahamas,1995,,,,301790,Americas,Caribbean
+Bahamas,1996,,,,301790,Americas,Caribbean
+Bahamas,1997,,,,301790,Americas,Caribbean
+Bahamas,1998,,,,301790,Americas,Caribbean
+Bahamas,1999,,,,301790,Americas,Caribbean
+Bahamas,2000,,,,301790,Americas,Caribbean
+Bahamas,2001,,,,301790,Americas,Caribbean
+Bahamas,2002,,,,301790,Americas,Caribbean
+Bahamas,2003,,,,301790,Americas,Caribbean
+Bahamas,2004,,,,301790,Americas,Caribbean
+Bahamas,2005,,,,301790,Americas,Caribbean
+Bahamas,2006,,,,301790,Americas,Caribbean
+Bahamas,2007,,,,301790,Americas,Caribbean
+Bahamas,2008,,,,301790,Americas,Caribbean
+Bahamas,2009,61.1764705882353,52,15.3683376778442,301790,Americas,Caribbean
+Bahamas,2010,,,,301790,Americas,Caribbean
+Barbados,1995,,,,285653,Americas,Caribbean
+Barbados,1996,,,,285653,Americas,Caribbean
+Barbados,1997,,,,285653,Americas,Caribbean
+Barbados,1998,35,7,2.63216277294588,285653,Americas,Caribbean
+Barbados,1999,39.1304347826087,9,3.37384445827304,285653,Americas,Caribbean
+Barbados,2000,40,8,2.99053123049146,285653,Americas,Caribbean
+Barbados,2001,,,,285653,Americas,Caribbean
+Barbados,2002,,,,285653,Americas,Caribbean
+Barbados,2003,,,,285653,Americas,Caribbean
+Barbados,2004,,,,285653,Americas,Caribbean
+Barbados,2005,,,,285653,Americas,Caribbean
+Barbados,2006,,,,285653,Americas,Caribbean
+Barbados,2007,,,,285653,Americas,Caribbean
+Barbados,2008,,,,285653,Americas,Caribbean
+Barbados,2009,,,,285653,Americas,Caribbean
+Barbados,2010,,,,285653,Americas,Caribbean
+Cuba,1995,,,,11423000,Americas,Caribbean
+Cuba,1996,,,,11423000,Americas,Caribbean
+Cuba,1997,,,,11423000,Americas,Caribbean
+Cuba,1998,,,,11423000,Americas,Caribbean
+Cuba,1999,,,,11423000,Americas,Caribbean
+Cuba,2000,,,,11423000,Americas,Caribbean
+Cuba,2001,,,,11423000,Americas,Caribbean
+Cuba,2002,,,,11423000,Americas,Caribbean
+Cuba,2003,,,,11423000,Americas,Caribbean
+Cuba,2004,,,,11423000,Americas,Caribbean
+Cuba,2005,,,,11423000,Americas,Caribbean
+Cuba,2006,,,,11423000,Americas,Caribbean
+Cuba,2007,4.38175040893791,27,0.240900815543426,11423000,Americas,Caribbean
+Cuba,2008,,,,11423000,Americas,Caribbean
+Cuba,2009,,,,11423000,Americas,Caribbean
+Cuba,2010,,,,11423000,Americas,Caribbean
+Dominican Republic,1995,,,,9823821,Americas,Caribbean
+Dominican Republic,1996,,,,9823821,Americas,Caribbean
+Dominican Republic,1997,,,,9823821,Americas,Caribbean
+Dominican Republic,1998,,,,9823821,Americas,Caribbean
+Dominican Republic,1999,,,,9823821,Americas,Caribbean
+Dominican Republic,2000,,,,9823821,Americas,Caribbean
+Dominican Republic,2001,,,,9823821,Americas,Caribbean
+Dominican Republic,2002,,,,9823821,Americas,Caribbean
+Dominican Republic,2003,,,,9823821,Americas,Caribbean
+Dominican Republic,2004,,,,9823821,Americas,Caribbean
+Dominican Republic,2005,,,,9823821,Americas,Caribbean
+Dominican Republic,2006,,,,9823821,Americas,Caribbean
+Dominican Republic,2007,,,,9823821,Americas,Caribbean
+Dominican Republic,2008,75.062656641604,1797,18.5929608726296,9823821,Americas,Caribbean
+Dominican Republic,2009,69.5157894736842,1651,16.8523521637359,9823821,Americas,Caribbean
+Dominican Republic,2010,65.5,1618,16.2984571868339,9823821,Americas,Caribbean
+Grenada,1995,,,,107818,Americas,Caribbean
+Grenada,1996,,,,107818,Americas,Caribbean
+Grenada,1997,,,,107818,Americas,Caribbean
+Grenada,1998,,,,107818,Americas,Caribbean
+Grenada,1999,,,,107818,Americas,Caribbean
+Grenada,2000,,,,107818,Americas,Caribbean
+Grenada,2001,,,,107818,Americas,Caribbean
+Grenada,2002,0,0,0,107818,Americas,Caribbean
+Grenada,2003,0,0,0,107818,Americas,Caribbean
+Grenada,2004,16.6666666666667,1,0.976038260699819,107818,Americas,Caribbean
+Grenada,2005,9.09090909090909,1,0.973387583467985,107818,Americas,Caribbean
+Grenada,2006,8.33333333333333,1,0.970525151159292,107818,Americas,Caribbean
+Grenada,2007,18.1818181818182,2,1.93483476511106,107818,Americas,Caribbean
+Grenada,2008,7.14285714285714,1,0.964106321645151,107818,Americas,Caribbean
+Grenada,2009,0,0,0,107818,Americas,Caribbean
+Grenada,2010,0,0,0,107818,Americas,Caribbean
+Jamaica,1995,,,,2847232,Americas,Caribbean
+Jamaica,1996,,,,2847232,Americas,Caribbean
+Jamaica,1997,,,,2847232,Americas,Caribbean
+Jamaica,1998,,,,2847232,Americas,Caribbean
+Jamaica,1999,,,,2847232,Americas,Caribbean
+Jamaica,2000,,,,2847232,Americas,Caribbean
+Jamaica,2001,,,,2847232,Americas,Caribbean
+Jamaica,2002,,,,2847232,Americas,Caribbean
+Jamaica,2003,,,,2847232,Americas,Caribbean
+Jamaica,2004,75.5268524813052,1111,41.6901666368344,2847232,Americas,Caribbean
+Jamaica,2005,76.3440860215054,1278,47.6571726468712,2847232,Americas,Caribbean
+Jamaica,2006,75.2238805970149,1008,37.38409262354,2847232,Americas,Caribbean
+Jamaica,2007,78.9008212255212,1249,46.104859208532,2847232,Americas,Caribbean
+Jamaica,2008,77.4412855377009,1253,46.0614009871035,2847232,Americas,Caribbean
+Jamaica,2009,76.6944114149822,1290,47.2393541171844,2847232,Americas,Caribbean
+Jamaica,2010,75.6302521008403,1080,39.4009307375416,2847232,Americas,Caribbean
+Puerto Rico,1995,,,,3916632,Americas,Caribbean
+Puerto Rico,1996,,,,3916632,Americas,Caribbean
+Puerto Rico,1997,,,,3916632,Americas,Caribbean
+Puerto Rico,1998,,,,3916632,Americas,Caribbean
+Puerto Rico,1999,,,,3916632,Americas,Caribbean
+Puerto Rico,2000,,,,3916632,Americas,Caribbean
+Puerto Rico,2001,,,,3916632,Americas,Caribbean
+Puerto Rico,2002,,,,3916632,Americas,Caribbean
+Puerto Rico,2003,,,,3916632,Americas,Caribbean
+Puerto Rico,2004,,,,3916632,Americas,Caribbean
+Puerto Rico,2005,94.8044817717272,692,18.2972649819434,3916632,Americas,Caribbean
+Puerto Rico,2006,,,,3916632,Americas,Caribbean
+Puerto Rico,2007,,,,3916632,Americas,Caribbean
+Puerto Rico,2008,,,,3916632,Americas,Caribbean
+Puerto Rico,2009,,,,3916632,Americas,Caribbean
+Puerto Rico,2010,,,,3916632,Americas,Caribbean
+Saint Kitts and Nevis,1995,,,,51134,Americas,Caribbean
+Saint Kitts and Nevis,1996,,,,51134,Americas,Caribbean
+Saint Kitts and Nevis,1997,,,,51134,Americas,Caribbean
+Saint Kitts and Nevis,1998,,,,51134,Americas,Caribbean
+Saint Kitts and Nevis,1999,,,,51134,Americas,Caribbean
+Saint Kitts and Nevis,2000,,,,51134,Americas,Caribbean
+Saint Kitts and Nevis,2001,,,,51134,Americas,Caribbean
+Saint Kitts and Nevis,2002,,,,51134,Americas,Caribbean
+Saint Kitts and Nevis,2003,,,,51134,Americas,Caribbean
+Saint Kitts and Nevis,2004,63.6363636363636,7,14.4202047669077,51134,Americas,Caribbean
+Saint Kitts and Nevis,2005,75,6,12.2018180708926,51134,Americas,Caribbean
+Saint Kitts and Nevis,2006,76.4705882352941,13,26.0986529079922,51134,Americas,Caribbean
+Saint Kitts and Nevis,2007,75,12,23.7835695173917,51134,Americas,Caribbean
+Saint Kitts and Nevis,2008,78.2608695652174,18,35.2236703064459,51134,Americas,Caribbean
+Saint Kitts and Nevis,2009,85.1851851851852,23,44.4427268511362,51134,Americas,Caribbean
+Saint Kitts and Nevis,2010,85,17,32.4415098660356,51134,Americas,Caribbean
+Saint Vincent and the Grenadines,1995,,,,104217,Americas,Caribbean
+Saint Vincent and the Grenadines,1996,,,,104217,Americas,Caribbean
+Saint Vincent and the Grenadines,1997,,,,104217,Americas,Caribbean
+Saint Vincent and the Grenadines,1998,,,,104217,Americas,Caribbean
+Saint Vincent and the Grenadines,1999,,,,104217,Americas,Caribbean
+Saint Vincent and the Grenadines,2000,,,,104217,Americas,Caribbean
+Saint Vincent and the Grenadines,2001,,,,104217,Americas,Caribbean
+Saint Vincent and the Grenadines,2002,,,,104217,Americas,Caribbean
+Saint Vincent and the Grenadines,2003,,,,104217,Americas,Caribbean
+Saint Vincent and the Grenadines,2004,,,,104217,Americas,Caribbean
+Saint Vincent and the Grenadines,2005,,,,104217,Americas,Caribbean
+Saint Vincent and the Grenadines,2006,,,,104217,Americas,Caribbean
+Saint Vincent and the Grenadines,2007,,,,104217,Americas,Caribbean
+Saint Vincent and the Grenadines,2008,,,,104217,Americas,Caribbean
+Saint Vincent and the Grenadines,2009,30,6,5.4910358839195,104217,Americas,Caribbean
+Saint Vincent and the Grenadines,2010,,,,104217,Americas,Caribbean
+Trinidad and Tobago,1995,,,,1228691,Americas,Caribbean
+Trinidad and Tobago,1996,,,,1228691,Americas,Caribbean
+Trinidad and Tobago,1997,,,,1228691,Americas,Caribbean
+Trinidad and Tobago,1998,,,,1228691,Americas,Caribbean
+Trinidad and Tobago,1999,,,,1228691,Americas,Caribbean
+Trinidad and Tobago,2000,,,,1228691,Americas,Caribbean
+Trinidad and Tobago,2001,,,,1228691,Americas,Caribbean
+Trinidad and Tobago,2002,,,,1228691,Americas,Caribbean
+Trinidad and Tobago,2003,,,,1228691,Americas,Caribbean
+Trinidad and Tobago,2004,68.9655172413793,180,13.7339370161648,1228691,Americas,Caribbean
+Trinidad and Tobago,2005,70.4663212435233,272,20.6783408064249,1228691,Americas,Caribbean
+Trinidad and Tobago,2006,72.5067385444744,269,20.3723366388522,1228691,Americas,Caribbean
+Trinidad and Tobago,2007,78.2608695652174,306,23.0826328081154,1228691,Americas,Caribbean
+Trinidad and Tobago,2008,79.5246800731261,435,32.6812116840966,1228691,Americas,Caribbean
+Trinidad and Tobago,2009,72.1343873517787,365,27.3132243149058,1228691,Americas,Caribbean
+Trinidad and Tobago,2010,,,,1228691,Americas,Caribbean
+Belize,1995,,,,314522,Americas,Central America
+Belize,1996,,,,314522,Americas,Central America
+Belize,1997,,,,314522,Americas,Central America
+Belize,1998,,,,314522,Americas,Central America
+Belize,1999,,,,314522,Americas,Central America
+Belize,2000,,,,314522,Americas,Central America
+Belize,2001,,,,314522,Americas,Central America
+Belize,2002,,,,314522,Americas,Central America
+Belize,2003,,,,314522,Americas,Central America
+Belize,2004,45.5696202531646,36,13.0978152116571,314522,Americas,Central America
+Belize,2005,50.6172839506173,41,14.5934998416071,314522,Americas,Central America
+Belize,2006,40.2173913043478,37,12.890414061003,314522,Americas,Central America
+Belize,2007,42.2680412371134,41,13.9872545407404,314522,Americas,Central America
+Belize,2008,64.0776699029126,66,22.0560960041706,314522,Americas,Central America
+Belize,2009,48.4536082474227,47,15.3897536984525,314522,Americas,Central America
+Belize,2010,52.3076923076923,68,21.8209590311494,314522,Americas,Central America
+Costa Rica,1995,47.2826086956522,87,2.50798664021461,4516220,Americas,Central America
+Costa Rica,1996,50.2645502645503,95,2.67071866227919,4516220,Americas,Central America
+Costa Rica,1997,51.4285714285714,108,2.96031289410879,4516220,Americas,Central America
+Costa Rica,1998,52.6785714285714,118,3.15459268594319,4516220,Americas,Central America
+Costa Rica,1999,51.4285714285714,126,3.28852586347293,4516220,Americas,Central America
+Costa Rica,2000,,,,4516220,Americas,Central America
+Costa Rica,2001,52.1400778210117,134,3.34753454081069,4516220,Americas,Central America
+Costa Rica,2002,50.7751937984496,131,3.20827038225195,4516220,Americas,Central America
+Costa Rica,2003,49,147,3.53328183234554,4516220,Americas,Central America
+Costa Rica,2004,53.5714285714286,150,3.54140671757636,4516220,Americas,Central America
+Costa Rica,2005,58.5074626865672,196,4.54818324444652,4516220,Americas,Central America
+Costa Rica,2006,57.2649572649573,201,4.58713502608505,4516220,Americas,Central America
+Costa Rica,2007,,,,4516220,Americas,Central America
+Costa Rica,2008,,,,4516220,Americas,Central America
+Costa Rica,2009,,,,4516220,Americas,Central America
+Costa Rica,2010,,,,4516220,Americas,Central America
+El Salvador,1995,,,,6052064,Americas,Central America
+El Salvador,1996,,,,6052064,Americas,Central America
+El Salvador,1997,,,,6052064,Americas,Central America
+El Salvador,1998,,,,6052064,Americas,Central America
+El Salvador,1999,,,,6052064,Americas,Central America
+El Salvador,2000,,,,6052064,Americas,Central America
+El Salvador,2001,45.6824512534819,1640,27.4889805225488,6052064,Americas,Central America
+El Salvador,2002,50.8289241622575,1441,24.0638599065868,6052064,Americas,Central America
+El Salvador,2003,,,,6052064,Americas,Central America
+El Salvador,2004,,,,6052064,Americas,Central America
+El Salvador,2005,76.998411858126,2909,48.0785678834175,6052064,Americas,Central America
+El Salvador,2006,78.1568228105906,3070,50.5392471825193,6052064,Americas,Central America
+El Salvador,2007,,,,6052064,Americas,Central America
+El Salvador,2008,76.9424347279019,2446,39.904542331117,6052064,Americas,Central America
+El Salvador,2009,,,,6052064,Americas,Central America
+El Salvador,2010,,,,6052064,Americas,Central America
+Guatemala,1995,,,,13550440,Americas,Central America
+Guatemala,1996,,,,13550440,Americas,Central America
+Guatemala,1997,,,,13550440,Americas,Central America
+Guatemala,1998,72.2658610271903,2392,22.3068697884969,13550440,Americas,Central America
+Guatemala,1999,69.2655367231638,1839,16.75731166431,13550440,Americas,Central America
+Guatemala,2000,72.6239669421488,2109,18.7681858514932,13550440,Americas,Central America
+Guatemala,2001,74.8916408668731,2419,21.0116934981968,13550440,Americas,Central America
+Guatemala,2002,75.5439272927568,2743,23.2450712694902,13550440,Americas,Central America
+Guatemala,2003,81.4491385414208,3451,28.5240180331966,13550440,Americas,Central America
+Guatemala,2004,80.8298202795651,3643,29.3677493582304,13550440,Americas,Central America
+Guatemala,2005,79.4117647058823,4239,33.3329296790776,13550440,Americas,Central America
+Guatemala,2006,78.3347493627868,4610,35.3665819096174,13550440,Americas,Central America
+Guatemala,2007,82.6154644525169,4776,35.7516018229724,13550440,Americas,Central America
+Guatemala,2008,83.2326764144946,5237,38.2518362999628,13550440,Americas,Central America
+Guatemala,2009,83.1794398276393,5405,38.5146444364367,13550440,Americas,Central America
+Guatemala,2010,84.0436241610738,5009,34.8114859695256,13550440,Americas,Central America
+Honduras,1995,,,,7989415,Americas,Central America
+Honduras,1996,,,,7989415,Americas,Central America
+Honduras,1997,,,,7989415,Americas,Central America
+Honduras,1998,,,,7989415,Americas,Central America
+Honduras,1999,,,,7989415,Americas,Central America
+Honduras,2000,,,,7989415,Americas,Central America
+Honduras,2001,,,,7989415,Americas,Central America
+Honduras,2002,,,,7989415,Americas,Central America
+Honduras,2003,,,,7989415,Americas,Central America
+Honduras,2004,,,,7989415,Americas,Central America
+Honduras,2005,75.9619362846504,1836,26.6889830756088,7989415,Americas,Central America
+Honduras,2006,78.1643472498343,2359,33.6146715572998,7989415,Americas,Central America
+Honduras,2007,75.0278706800446,2692,37.6039679170545,7989415,Americas,Central America
+Honduras,2008,80.2593337804605,3590,49.1596170315205,7989415,Americas,Central America
+Honduras,2009,81.4434947768281,4288,57.5576418709294,7989415,Americas,Central America
+Honduras,2010,83.3627183843565,5201,68.429492492886,7989415,Americas,Central America
+Mexico,1995,,,,112468855,Americas,Central America
+Mexico,1996,,,,112468855,Americas,Central America
+Mexico,1997,29.9045473409616,5044,5.2849213304779,112468855,Americas,Central America
+Mexico,1998,46.229600450197,6572,6.77512271843078,112468855,Americas,Central America
+Mexico,1999,60.0588275531842,8780,8.91246688658196,112468855,Americas,Central America
+Mexico,2000,26.0307603437071,3605,3.60645722510638,112468855,Americas,Central America
+Mexico,2001,25.3482497293396,3512,3.46591911502058,112468855,Americas,Central America
+Mexico,2002,19.826536822885,2606,2.53911580485299,112468855,Americas,Central America
+Mexico,2003,23.714105396024,3006,2.89309497246406,112468855,Americas,Central America
+Mexico,2004,24.5153542631669,2858,2.71735081836709,112468855,Americas,Central America
+Mexico,2005,28.5117725455353,3209,3.01360516421298,112468855,Americas,Central America
+Mexico,2006,30.6581740976645,3610,3.3476991046129,112468855,Americas,Central America
+Mexico,2007,39.4031015312591,4040,3.69893073342939,112468855,Americas,Central America
+Mexico,2008,38.6189646024407,5095,4.60555987527041,112468855,Americas,Central America
+Mexico,2009,54.625550660793,8804,7.85837298171405,112468855,Americas,Central America
+Mexico,2010,54.9380616954093,11309,9.9706367436946,112468855,Americas,Central America
+Nicaragua,1995,,,,5995928,Americas,Central America
+Nicaragua,1996,,,,5995928,Americas,Central America
+Nicaragua,1997,,,,5995928,Americas,Central America
+Nicaragua,1998,,,,5995928,Americas,Central America
+Nicaragua,1999,,,,5995928,Americas,Central America
+Nicaragua,2000,,,,5995928,Americas,Central America
+Nicaragua,2001,,,,5995928,Americas,Central America
+Nicaragua,2002,,,,5995928,Americas,Central America
+Nicaragua,2003,,,,5995928,Americas,Central America
+Nicaragua,2004,,,,5995928,Americas,Central America
+Nicaragua,2005,,,,5995928,Americas,Central America
+Nicaragua,2006,,,,5995928,Americas,Central America
+Nicaragua,2007,,,,5995928,Americas,Central America
+Nicaragua,2008,35.1902173913043,259,4.59580270130281,5995928,Americas,Central America
+Nicaragua,2009,42.14463840399,338,5.91920115301836,5995928,Americas,Central America
+Nicaragua,2010,,,,5995928,Americas,Central America
+Panama,1995,,,,3410676,Americas,Central America
+Panama,1996,,,,3410676,Americas,Central America
+Panama,1997,,,,3410676,Americas,Central America
+Panama,1998,,,,3410676,Americas,Central America
+Panama,1999,,,,3410676,Americas,Central America
+Panama,2000,,,,3410676,Americas,Central America
+Panama,2001,,,,3410676,Americas,Central America
+Panama,2002,,,,3410676,Americas,Central America
+Panama,2003,,,,3410676,Americas,Central America
+Panama,2004,60.0649350649351,185,5.81401013020554,3410676,Americas,Central America
+Panama,2005,57.1428571428571,208,6.42308159073792,3410676,Americas,Central America
+Panama,2006,68.733153638814,255,7.73997801846243,3410676,Americas,Central America
+Panama,2007,65.0900900900901,289,8.62513292105795,3410676,Americas,Central America
+Panama,2008,79.3577981651376,519,15.2356371828221,3410676,Americas,Central America
+Panama,2009,81.5403422982885,667,19.2668710052656,3410676,Americas,Central America
+Panama,2010,74.9670619235837,569,16.179389334683,3410676,Americas,Central America
+Bermuda,1995,,,,65365,Americas,Northern america
+Bermuda,1996,,,,65365,Americas,Northern america
+Bermuda,1997,,,,65365,Americas,Northern america
+Bermuda,1998,,,,65365,Americas,Northern america
+Bermuda,1999,,,,65365,Americas,Northern america
+Bermuda,2000,,,,65365,Americas,Northern america
+Bermuda,2001,,,,65365,Americas,Northern america
+Bermuda,2002,,,,65365,Americas,Northern america
+Bermuda,2003,50,1,1.57096850208153,65365,Americas,Northern america
+Bermuda,2004,0,0,0,65365,Americas,Northern america
+Bermuda,2005,,,,65365,Americas,Northern america
+Bermuda,2006,,,,65365,Americas,Northern america
+Bermuda,2007,,,,65365,Americas,Northern america
+Bermuda,2008,,,,65365,Americas,Northern america
+Bermuda,2009,,,,65365,Americas,Northern america
+Bermuda,2010,,,,65365,Americas,Northern america
+Canada,1995,31.2267657992565,168,0.57333790365548,33679000,Americas,Northern america
+Canada,1996,36,207,0.699744596602649,33679000,Americas,Northern america
+Canada,1997,35.5640535372849,186,0.623110526206119,33679000,Americas,Northern america
+Canada,1998,29.8418972332016,151,0.501428373513796,33679000,Americas,Northern america
+Canada,1999,34.2323651452282,165,0.543052136658379,33679000,Americas,Northern america
+Canada,2000,,,,33679000,Americas,Northern america
+Canada,2001,30.379746835443,168,0.542508863238553,33679000,Americas,Northern america
+Canada,2002,27.5334608030593,144,0.460332640841728,33679000,Americas,Northern america
+Canada,2003,28.5974499089253,157,0.496700862253715,33679000,Americas,Northern america
+Canada,2004,30.1818181818182,166,0.519665829827285,33679000,Americas,Northern america
+Canada,2005,36.1952861952862,215,0.665976673532009,33679000,Americas,Northern america
+Canada,2006,33.4525939177102,187,0.573127761701936,33679000,Americas,Northern america
+Canada,2007,34.6938775510204,187,0.567056148322966,33679000,Americas,Northern america
+Canada,2008,35.3153153153153,196,0.588094906756052,33679000,Americas,Northern america
+Canada,2009,31.9778188539741,173,0.513727389758853,33679000,Americas,Northern america
+Canada,2010,,,,33679000,Americas,Northern america
+United States of America,1995,,,,310232863,Americas,Northern america
+United States of America,1996,,,,310232863,Americas,Northern america
+United States of America,1997,,,,310232863,Americas,Northern america
+United States of America,1998,,,,310232863,Americas,Northern america
+United States of America,1999,,,,310232863,Americas,Northern america
+United States of America,2000,,,,310232863,Americas,Northern america
+United States of America,2001,,,,310232863,Americas,Northern america
+United States of America,2002,,,,310232863,Americas,Northern america
+United States of America,2003,66.7749740753543,11040,3.79002671155212,310232863,Americas,Northern america
+United States of America,2004,66.0450387051372,10660,3.62507205935923,310232863,Americas,Northern america
+United States of America,2005,67.878382893418,11360,3.82723154484018,310232863,Americas,Northern america
+United States of America,2006,67.7735799032279,11730,3.91568466046724,310232863,Americas,Northern america
+United States of America,2007,67.9069455618128,11630,3.84736813752753,310232863,Americas,Northern america
+United States of America,2008,66.9853768278965,11030,3.61652311572719,310232863,Americas,Northern america
+United States of America,2009,66.892088423502,10300,3.34756069378605,310232863,Americas,Northern america
+United States of America,2010,67.5207756232687,9960,3.20892883287895,310232863,Americas,Northern america
+Argentina,1995,,,,41343201,Americas,South America
+Argentina,1996,,,,41343201,Americas,South America
+Argentina,1997,,,,41343201,Americas,South America
+Argentina,1998,,,,41343201,Americas,South America
+Argentina,1999,,,,41343201,Americas,South America
+Argentina,2000,,,,41343201,Americas,South America
+Argentina,2001,,,,41343201,Americas,South America
+Argentina,2002,,,,41343201,Americas,South America
+Argentina,2003,,,,41343201,Americas,South America
+Argentina,2004,,,,41343201,Americas,South America
+Argentina,2005,49.3617021276596,1044,2.69898736786014,41343201,Americas,South America
+Argentina,2006,49.3664717348928,1013,2.59584843627679,41343201,Americas,South America
+Argentina,2007,49.0584258812168,1016,2.58077193835227,41343201,Americas,South America
+Argentina,2008,51.9739696312364,1198,3.01654582941388,41343201,Americas,South America
+Argentina,2009,,,,41343201,Americas,South America
+Argentina,2010,,,,41343201,Americas,South America
+Brazil,1995,,,,201103330,Americas,South America
+Brazil,1996,,,,201103330,Americas,South America
+Brazil,1997,,,,201103330,Americas,South America
+Brazil,1998,,,,201103330,Americas,South America
+Brazil,1999,,,,201103330,Americas,South America
+Brazil,2000,,,,201103330,Americas,South America
+Brazil,2001,,,,201103330,Americas,South America
+Brazil,2002,,,,201103330,Americas,South America
+Brazil,2003,,,,201103330,Americas,South America
+Brazil,2004,69.8992005561349,34187,18.5926862049202,201103330,Americas,South America
+Brazil,2005,69.4262090742895,33419,17.9684636392043,201103330,Americas,South America
+Brazil,2006,70.2579269274103,34921,18.57912980455,201103330,Americas,South America
+Brazil,2007,70.816483129057,34147,17.9912261489276,201103330,Americas,South America
+Brazil,2008,70.7598759386223,34678,18.1045285352466,201103330,Americas,South America
+Brazil,2009,,,,201103330,Americas,South America
+Brazil,2010,,,,201103330,Americas,South America
+Chile,1995,,,,16746491,Americas,South America
+Chile,1996,,,,16746491,Americas,South America
+Chile,1997,,,,16746491,Americas,South America
+Chile,1998,,,,16746491,Americas,South America
+Chile,1999,,,,16746491,Americas,South America
+Chile,2000,,,,16746491,Americas,South America
+Chile,2001,,,,16746491,Americas,South America
+Chile,2002,,,,16746491,Americas,South America
+Chile,2003,,,,16746491,Americas,South America
+Chile,2004,,,,16746491,Americas,South America
+Chile,2005,37.3167558754652,353,2.16437184077698,16746491,Americas,South America
+Chile,2006,,,,16746491,Americas,South America
+Chile,2007,,,,16746491,Americas,South America
+Chile,2008,,,,16746491,Americas,South America
+Chile,2009,,,,16746491,Americas,South America
+Chile,2010,,,,16746491,Americas,South America
+Colombia,1995,,,,47790000,Americas,South America
+Colombia,1996,,,,47790000,Americas,South America
+Colombia,1997,,,,47790000,Americas,South America
+Colombia,1998,,,,47790000,Americas,South America
+Colombia,1999,,,,47790000,Americas,South America
+Colombia,2000,,,,47790000,Americas,South America
+Colombia,2001,,,,47790000,Americas,South America
+Colombia,2002,,,,47790000,Americas,South America
+Colombia,2003,,,,47790000,Americas,South America
+Colombia,2004,84.0128649183572,16979,40.0583102154802,47790000,Americas,South America
+Colombia,2005,81.5139970183866,14763,34.3002058662901,47790000,Americas,South America
+Colombia,2006,79.6098174952801,13915,31.8446265997262,47790000,Americas,South America
+Colombia,2007,80.3465519246424,13818,31.1550733290725,47790000,Americas,South America
+Colombia,2008,79.9008674101611,12896,28.6540960448149,47790000,Americas,South America
+Colombia,2009,80.9761648858823,12808,28.0544698296607,47790000,Americas,South America
+Colombia,2010,81.1113267352351,12539,27.0850914035972,47790000,Americas,South America
+Ecuador,1995,,,,14790608,Americas,South America
+Ecuador,1996,,,,14790608,Americas,South America
+Ecuador,1997,,,,14790608,Americas,South America
+Ecuador,1998,,,,14790608,Americas,South America
+Ecuador,1999,,,,14790608,Americas,South America
+Ecuador,2000,,,,14790608,Americas,South America
+Ecuador,2001,,,,14790608,Americas,South America
+Ecuador,2002,,,,14790608,Americas,South America
+Ecuador,2003,,,,14790608,Americas,South America
+Ecuador,2004,61.5899581589958,1472,11.1440275469459,14790608,Americas,South America
+Ecuador,2005,80.8109382366808,1714,12.7658921578544,14790608,Americas,South America
+Ecuador,2006,68.5534591194969,1635,11.9870601335454,14790608,Americas,South America
+Ecuador,2007,,,,14790608,Americas,South America
+Ecuador,2008,68.6612965093978,1790,12.734104778206,14790608,Americas,South America
+Ecuador,2009,,,,14790608,Americas,South America
+Ecuador,2010,,,,14790608,Americas,South America
+Guyana,1995,,,,748486,Americas,South America
+Guyana,1996,,,,748486,Americas,South America
+Guyana,1997,,,,748486,Americas,South America
+Guyana,1998,,,,748486,Americas,South America
+Guyana,1999,,,,748486,Americas,South America
+Guyana,2000,,,,748486,Americas,South America
+Guyana,2001,,,,748486,Americas,South America
+Guyana,2002,,,,748486,Americas,South America
+Guyana,2003,,,,748486,Americas,South America
+Guyana,2004,,,,748486,Americas,South America
+Guyana,2005,61.2680543107146,85,11.4571261561036,748486,Americas,South America
+Guyana,2006,,,,748486,Americas,South America
+Guyana,2007,,,,748486,Americas,South America
+Guyana,2008,,,,748486,Americas,South America
+Guyana,2009,,,,748486,Americas,South America
+Guyana,2010,,,,748486,Americas,South America
+Paraguay,1995,,,,6375830,Americas,South America
+Paraguay,1996,,,,6375830,Americas,South America
+Paraguay,1997,,,,6375830,Americas,South America
+Paraguay,1998,60.0467289719626,514,10.0311277212361,6375830,Americas,South America
+Paraguay,1999,63.5646687697161,403,7.70022250394804,6375830,Americas,South America
+Paraguay,2000,61.0271903323263,404,7.56053244862628,6375830,Americas,South America
+Paraguay,2001,,,,6375830,Americas,South America
+Paraguay,2002,,,,6375830,Americas,South America
+Paraguay,2003,,,,6375830,Americas,South America
+Paraguay,2004,,,,6375830,Americas,South America
+Paraguay,2005,60.315670800451,535,9.07115447480898,6375830,Americas,South America
+Paraguay,2006,63.3423180592992,470,7.82212553113481,6375830,Americas,South America
+Paraguay,2007,,,,6375830,Americas,South America
+Paraguay,2008,,,,6375830,Americas,South America
+Paraguay,2009,56.0770156438027,466,7.34796492907795,6375830,Americas,South America
+Paraguay,2010,,,,6375830,Americas,South America
+Peru,1995,,,,29907003,Americas,South America
+Peru,1996,,,,29907003,Americas,South America
+Peru,1997,,,,29907003,Americas,South America
+Peru,1998,,,,29907003,Americas,South America
+Peru,1999,,,,29907003,Americas,South America
+Peru,2000,,,,29907003,Americas,South America
+Peru,2001,,,,29907003,Americas,South America
+Peru,2002,,,,29907003,Americas,South America
+Peru,2003,,,,29907003,Americas,South America
+Peru,2004,35.7798165137615,546,2.00425570294258,29907003,Americas,South America
+Peru,2005,38.375,614,2.22796598788574,29907003,Americas,South America
+Peru,2006,32,528,1.89475585765747,29907003,Americas,South America
+Peru,2007,36.8090452261307,586,2.08051685435225,29907003,Americas,South America
+Peru,2008,32.9113924050633,520,1.82691151684318,29907003,Americas,South America
+Peru,2009,50.8053691275168,757,2.63165561174312,29907003,Americas,South America
+Peru,2010,,,,29907003,Americas,South America
+Uruguay,1995,,,,3477000,Americas,South America
+Uruguay,1996,,,,3477000,Americas,South America
+Uruguay,1997,,,,3477000,Americas,South America
+Uruguay,1998,,,,3477000,Americas,South America
+Uruguay,1999,,,,3477000,Americas,South America
+Uruguay,2000,39.2523364485981,84,2.53083246913439,3477000,Americas,South America
+Uruguay,2001,83.4862385321101,182,5.47399701035548,3477000,Americas,South America
+Uruguay,2002,47.1861471861472,109,3.2778218663196,3477000,Americas,South America
+Uruguay,2003,44.1624365482233,87,2.61801846696061,3477000,Americas,South America
+Uruguay,2004,46.5,93,2.80005190633856,3477000,Americas,South America
+Uruguay,2005,,,,3477000,Americas,South America
+Uruguay,2006,,,,3477000,Americas,South America
+Uruguay,2007,,,,3477000,Americas,South America
+Uruguay,2008,,,,3477000,Americas,South America
+Uruguay,2009,,,,3477000,Americas,South America
+Uruguay,2010,,,,3477000,Americas,South America
+Venezuela (Bolivarian Republic of),1995,,,,-1,Americas,South America
+Venezuela (Bolivarian Republic of),1996,,,,-1,Americas,South America
+Venezuela (Bolivarian Republic of),1997,,,,-1,Americas,South America
+Venezuela (Bolivarian Republic of),1998,,,,-1,Americas,South America
+Venezuela (Bolivarian Republic of),1999,,,,-1,Americas,South America
+Venezuela (Bolivarian Republic of),2000,,,,-1,Americas,South America
+Venezuela (Bolivarian Republic of),2001,,,,-1,Americas,South America
+Venezuela (Bolivarian Republic of),2002,,,,-1,Americas,South America
+Venezuela (Bolivarian Republic of),2003,,,,-1,Americas,South America
+Venezuela (Bolivarian Republic of),2004,,,,-1,Americas,South America
+Venezuela (Bolivarian Republic of),2005,,,,-1,Americas,South America
+Venezuela (Bolivarian Republic of),2006,,,,-1,Americas,South America
+Venezuela (Bolivarian Republic of),2007,,,,-1,Americas,South America
+Venezuela (Bolivarian Republic of),2008,,,,-1,Americas,South America
+Venezuela (Bolivarian Republic of),2009,79.4780121558813,11115,38.972769657467,-1,Americas,South America
+Venezuela (Bolivarian Republic of),2010,,,,-1,Americas,South America
+Kazakhstan,1995,7.06988148753576,173,1.08628404393787,15340000,Asia,Central Asia
+Kazakhstan,1996,7.04761904761905,185,1.17740322636487,15340000,Asia,Central Asia
+Kazakhstan,1997,8.40759395583107,217,1.40138456795314,15340000,Asia,Central Asia
+Kazakhstan,1998,,,,15340000,Asia,Central Asia
+Kazakhstan,1999,,,,15340000,Asia,Central Asia
+Kazakhstan,2000,,,,15340000,Asia,Central Asia
+Kazakhstan,2001,,,,15340000,Asia,Central Asia
+Kazakhstan,2002,,,,15340000,Asia,Central Asia
+Kazakhstan,2003,,,,15340000,Asia,Central Asia
+Kazakhstan,2004,,,,15340000,Asia,Central Asia
+Kazakhstan,2005,5.35714285714286,99,0.652526182613077,15340000,Asia,Central Asia
+Kazakhstan,2006,4.03409090909091,71,0.46367852632254,15340000,Asia,Central Asia
+Kazakhstan,2007,13.1782945736434,221,1.42800899425973,15340000,Asia,Central Asia
+Kazakhstan,2008,12.5,210,1.34139490378526,15340000,Asia,Central Asia
+Kazakhstan,2009,,,,15340000,Asia,Central Asia
+Kazakhstan,2010,,,,15340000,Asia,Central Asia
+Kyrgyzstan,1995,,,,5776500,Asia,Central Asia
+Kyrgyzstan,1996,,,,5776500,Asia,Central Asia
+Kyrgyzstan,1997,,,,5776500,Asia,Central Asia
+Kyrgyzstan,1998,,,,5776500,Asia,Central Asia
+Kyrgyzstan,1999,,,,5776500,Asia,Central Asia
+Kyrgyzstan,2000,,,,5776500,Asia,Central Asia
+Kyrgyzstan,2001,,,,5776500,Asia,Central Asia
+Kyrgyzstan,2002,,,,5776500,Asia,Central Asia
+Kyrgyzstan,2003,,,,5776500,Asia,Central Asia
+Kyrgyzstan,2004,,,,5776500,Asia,Central Asia
+Kyrgyzstan,2005,,,,5776500,Asia,Central Asia
+Kyrgyzstan,2006,,,,5776500,Asia,Central Asia
+Kyrgyzstan,2007,,,,5776500,Asia,Central Asia
+Kyrgyzstan,2008,8.29024504133382,28,0.538036903182565,5776500,Asia,Central Asia
+Kyrgyzstan,2009,,,,5776500,Asia,Central Asia
+Kyrgyzstan,2010,,,,5776500,Asia,Central Asia
+Tajikistan,1995,,,,7487489,Asia,Central Asia
+Tajikistan,1996,,,,7487489,Asia,Central Asia
+Tajikistan,1997,,,,7487489,Asia,Central Asia
+Tajikistan,1998,,,,7487489,Asia,Central Asia
+Tajikistan,1999,,,,7487489,Asia,Central Asia
+Tajikistan,2000,,,,7487489,Asia,Central Asia
+Tajikistan,2001,,,,7487489,Asia,Central Asia
+Tajikistan,2002,,,,7487489,Asia,Central Asia
+Tajikistan,2003,,,,7487489,Asia,Central Asia
+Tajikistan,2004,19.7183098591549,28,0.438107874676113,7487489,Asia,Central Asia
+Tajikistan,2005,12.9032258064516,16,0.247937470170023,7487489,Asia,Central Asia
+Tajikistan,2006,25.2747252747253,46,0.705020388883116,7487489,Asia,Central Asia
+Tajikistan,2007,14.2857142857143,17,0.257403141469069,7487489,Asia,Central Asia
+Tajikistan,2008,9.47368421052632,9,0.134500679676768,7487489,Asia,Central Asia
+Tajikistan,2009,15.625,15,0.221128373866164,7487489,Asia,Central Asia
+Tajikistan,2010,,,,7487489,Asia,Central Asia
+Turkmenistan,1995,,,,4940916,Asia,Central Asia
+Turkmenistan,1996,,,,4940916,Asia,Central Asia
+Turkmenistan,1997,,,,4940916,Asia,Central Asia
+Turkmenistan,1998,,,,4940916,Asia,Central Asia
+Turkmenistan,1999,,,,4940916,Asia,Central Asia
+Turkmenistan,2000,,,,4940916,Asia,Central Asia
+Turkmenistan,2001,,,,4940916,Asia,Central Asia
+Turkmenistan,2002,,,,4940916,Asia,Central Asia
+Turkmenistan,2003,,,,4940916,Asia,Central Asia
+Turkmenistan,2004,,,,4940916,Asia,Central Asia
+Turkmenistan,2005,2.14592274678112,5,0.105311068888393,4940916,Asia,Central Asia
+Turkmenistan,2006,2.39234449760766,5,0.104126599618855,4940916,Asia,Central Asia
+Turkmenistan,2007,,,,4940916,Asia,Central Asia
+Turkmenistan,2008,,,,4940916,Asia,Central Asia
+Turkmenistan,2009,,,,4940916,Asia,Central Asia
+Turkmenistan,2010,,,,4940916,Asia,Central Asia
+Taiwan Province of China,1995,,,,-1,Asia,Eastern Asia
+Taiwan Province of China,1996,,,,-1,Asia,Eastern Asia
+Taiwan Province of China,1997,,,,-1,Asia,Eastern Asia
+Taiwan Province of China,1998,8.35197613721104,112,0.510748729820352,-1,Asia,Eastern Asia
+Taiwan Province of China,1999,10.3230890464933,131,0.5929644451729,-1,Asia,Eastern Asia
+Taiwan Province of China,2000,10.4240282685512,118,0.529702102719832,-1,Asia,Eastern Asia
+Taiwan Province of China,2001,12.7798507462687,137,0.61145515257636,-1,Asia,Eastern Asia
+Taiwan Province of China,2002,14.5328719723183,168,0.745977847299756,-1,Asia,Eastern Asia
+Taiwan Province of China,2003,16.9347209082308,179,0.791875971872919,-1,Asia,Eastern Asia
+Taiwan Province of China,2004,23.6263736263736,215,0.947590655998059,-1,Asia,Eastern Asia
+Taiwan Province of China,2005,20.3765227021041,184,0.808067216085035,-1,Asia,Eastern Asia
+Taiwan Province of China,2006,16.3952225841477,151,0.660065227558362,-1,Asia,Eastern Asia
+Taiwan Province of China,2007,17.366628830874,153,0.666423908327947,-1,Asia,Eastern Asia
+Taiwan Province of China,2008,15.9402241594022,128,0.555627155252775,-1,Asia,Eastern Asia
+Taiwan Province of China,2009,,,,-1,Asia,Eastern Asia
+Taiwan Province of China,2010,,,,-1,Asia,Eastern Asia
+Hong Kong China,1995,4.10958904109589,3,0.0488256137867909,-1,Asia,Eastern Asia
+Hong Kong China,1996,5.47945205479452,4,0.0638133281474369,-1,Asia,Eastern Asia
+Hong Kong China,1997,2,2,0.0311812599380522,-1,Asia,Eastern Asia
+Hong Kong China,1998,,,,-1,Asia,Eastern Asia
+Hong Kong China,1999,,,,-1,Asia,Eastern Asia
+Hong Kong China,2000,2.32558139534884,1,0.0147420502388433,-1,Asia,Eastern Asia
+Hong Kong China,2001,,,,-1,Asia,Eastern Asia
+Hong Kong China,2002,,,,-1,Asia,Eastern Asia
+Hong Kong China,2003,5.76923076923077,3,0.0439738718979548,-1,Asia,Eastern Asia
+Hong Kong China,2004,0,0,0,-1,Asia,Eastern Asia
+Hong Kong China,2005,,,,-1,Asia,Eastern Asia
+Hong Kong China,2006,,,,-1,Asia,Eastern Asia
+Hong Kong China,2007,,,,-1,Asia,Eastern Asia
+Hong Kong China,2008,,,,-1,Asia,Eastern Asia
+Hong Kong China,2009,,,,-1,Asia,Eastern Asia
+Hong Kong China,2010,,,,-1,Asia,Eastern Asia
+Japan,1995,5.5331215289543,42,0.0337385320319728,127288000,Asia,Eastern Asia
+Japan,1996,5.0074987293472,36,0.0288426904121914,127288000,Asia,Eastern Asia
+Japan,1997,4.50408261971222,34,0.0271800887367543,127288000,Asia,Eastern Asia
+Japan,1998,,,,127288000,Asia,Eastern Asia
+Japan,1999,,,,127288000,Asia,Eastern Asia
+Japan,2000,,,,127288000,Asia,Eastern Asia
+Japan,2001,7.2200732476431,56,0.0444819989015647,127288000,Asia,Eastern Asia
+Japan,2002,5.99428476831834,47,0.0372872743150038,127288000,Asia,Eastern Asia
+Japan,2003,,,,127288000,Asia,Eastern Asia
+Japan,2004,,,,127288000,Asia,Eastern Asia
+Japan,2005,,,,127288000,Asia,Eastern Asia
+Japan,2006,,,,127288000,Asia,Eastern Asia
+Japan,2007,,,,127288000,Asia,Eastern Asia
+Japan,2008,1.83637409884884,10.680781470444,0.00844032704225481,127288000,Asia,Eastern Asia
+Japan,2009,,,,127288000,Asia,Eastern Asia
+Japan,2010,,,,127288000,Asia,Eastern Asia
+Mongolia,1995,,,,3086918,Asia,Eastern Asia
+Mongolia,1996,,,,3086918,Asia,Eastern Asia
+Mongolia,1997,,,,3086918,Asia,Eastern Asia
+Mongolia,1998,,,,3086918,Asia,Eastern Asia
+Mongolia,1999,,,,3086918,Asia,Eastern Asia
+Mongolia,2000,,,,3086918,Asia,Eastern Asia
+Mongolia,2001,,,,3086918,Asia,Eastern Asia
+Mongolia,2002,,,,3086918,Asia,Eastern Asia
+Mongolia,2003,5.76368876080692,20,0.80477165207951,3086918,Asia,Eastern Asia
+Mongolia,2004,7.25075528700906,24,0.954478532584704,3086918,Asia,Eastern Asia
+Mongolia,2005,4.85436893203883,15,0.5888497761782,3086918,Asia,Eastern Asia
+Mongolia,2006,1.92926045016077,6,0.232185293151347,3086918,Asia,Eastern Asia
+Mongolia,2007,3.35570469798658,10,0.381023650519011,3086918,Asia,Eastern Asia
+Mongolia,2008,4.30622009569378,9,0.337397852800065,3086918,Asia,Eastern Asia
+Mongolia,2009,1.36986301369863,3,0.11063337978706,3086918,Asia,Eastern Asia
+Mongolia,2010,,,,3086918,Asia,Eastern Asia
+Republic of Korea,1995,,,,48422644,Asia,Eastern Asia
+Republic of Korea,1996,,,,48422644,Asia,Eastern Asia
+Republic of Korea,1997,,,,48422644,Asia,Eastern Asia
+Republic of Korea,1998,,,,48422644,Asia,Eastern Asia
+Republic of Korea,1999,,,,48422644,Asia,Eastern Asia
+Republic of Korea,2000,,,,48422644,Asia,Eastern Asia
+Republic of Korea,2001,,,,48422644,Asia,Eastern Asia
+Republic of Korea,2002,,,,48422644,Asia,Eastern Asia
+Republic of Korea,2003,,,,48422644,Asia,Eastern Asia
+Republic of Korea,2004,,,,48422644,Asia,Eastern Asia
+Republic of Korea,2005,,,,48422644,Asia,Eastern Asia
+Republic of Korea,2006,1.72279788102596,14,0.0301925933997977,48422644,Asia,Eastern Asia
+Republic of Korea,2007,,,,48422644,Asia,Eastern Asia
+Republic of Korea,2008,,,,48422644,Asia,Eastern Asia
+Republic of Korea,2009,,,,48422644,Asia,Eastern Asia
+Republic of Korea,2010,,,,48422644,Asia,Eastern Asia
+Brunei Darussalam,1995,,,,395027,Asia,South-Eastern Asia
+Brunei Darussalam,1996,,,,395027,Asia,South-Eastern Asia
+Brunei Darussalam,1997,,,,395027,Asia,South-Eastern Asia
+Brunei Darussalam,1998,,,,395027,Asia,South-Eastern Asia
+Brunei Darussalam,1999,,,,395027,Asia,South-Eastern Asia
+Brunei Darussalam,2000,,,,395027,Asia,South-Eastern Asia
+Brunei Darussalam,2001,,,,395027,Asia,South-Eastern Asia
+Brunei Darussalam,2002,,,,395027,Asia,South-Eastern Asia
+Brunei Darussalam,2003,,,,395027,Asia,South-Eastern Asia
+Brunei Darussalam,2004,,,,395027,Asia,South-Eastern Asia
+Brunei Darussalam,2005,0,0,0,395027,Asia,South-Eastern Asia
+Brunei Darussalam,2006,0,0,0,395027,Asia,South-Eastern Asia
+Brunei Darussalam,2007,,,,395027,Asia,South-Eastern Asia
+Brunei Darussalam,2008,,,,395027,Asia,South-Eastern Asia
+Brunei Darussalam,2009,,,,395027,Asia,South-Eastern Asia
+Brunei Darussalam,2010,,,,395027,Asia,South-Eastern Asia
+Cambodia,1995,,,,14453680,Asia,South-Eastern Asia
+Cambodia,1996,,,,14453680,Asia,South-Eastern Asia
+Cambodia,1997,,,,14453680,Asia,South-Eastern Asia
+Cambodia,1998,58.3858764186633,463,3.86279872866367,14453680,Asia,South-Eastern Asia
+Cambodia,1999,47.6764199655766,277,2.26595728842299,14453680,Asia,South-Eastern Asia
+Cambodia,2000,43.4325744308231,248,1.99245614326852,14453680,Asia,South-Eastern Asia
+Cambodia,2001,36.8550368550369,150,1.18542552508819,14453680,Asia,South-Eastern Asia
+Cambodia,2002,32.9411764705882,140,1.08989941941058,14453680,Asia,South-Eastern Asia
+Cambodia,2003,36.7387033398821,187,1.43579195942682,14453680,Asia,South-Eastern Asia
+Cambodia,2004,,,,14453680,Asia,South-Eastern Asia
+Cambodia,2005,,,,14453680,Asia,South-Eastern Asia
+Cambodia,2006,,,,14453680,Asia,South-Eastern Asia
+Cambodia,2007,,,,14453680,Asia,South-Eastern Asia
+Cambodia,2008,,,,14453680,Asia,South-Eastern Asia
+Cambodia,2009,,,,14453680,Asia,South-Eastern Asia
+Cambodia,2010,,,,14453680,Asia,South-Eastern Asia
+Malaysia,1995,,,,28274729,Asia,South-Eastern Asia
+Malaysia,1996,,,,28274729,Asia,South-Eastern Asia
+Malaysia,1997,,,,28274729,Asia,South-Eastern Asia
+Malaysia,1998,,,,28274729,Asia,South-Eastern Asia
+Malaysia,1999,,,,28274729,Asia,South-Eastern Asia
+Malaysia,2000,,,,28274729,Asia,South-Eastern Asia
+Malaysia,2001,,,,28274729,Asia,South-Eastern Asia
+Malaysia,2002,,,,28274729,Asia,South-Eastern Asia
+Malaysia,2003,,,,28274729,Asia,South-Eastern Asia
+Malaysia,2004,,,,28274729,Asia,South-Eastern Asia
+Malaysia,2005,,,,28274729,Asia,South-Eastern Asia
+Malaysia,2006,13.3910773399702,64,0.241209452835599,28274729,Asia,South-Eastern Asia
+Malaysia,2007,,,,28274729,Asia,South-Eastern Asia
+Malaysia,2008,,,,28274729,Asia,South-Eastern Asia
+Malaysia,2009,,,,28274729,Asia,South-Eastern Asia
+Malaysia,2010,,,,28274729,Asia,South-Eastern Asia
+Philippines,1995,,,,99900177,Asia,South-Eastern Asia
+Philippines,1996,,,,99900177,Asia,South-Eastern Asia
+Philippines,1997,,,,99900177,Asia,South-Eastern Asia
+Philippines,1998,,,,99900177,Asia,South-Eastern Asia
+Philippines,1999,,,,99900177,Asia,South-Eastern Asia
+Philippines,2000,,,,99900177,Asia,South-Eastern Asia
+Philippines,2001,,,,99900177,Asia,South-Eastern Asia
+Philippines,2002,,,,99900177,Asia,South-Eastern Asia
+Philippines,2003,49.9298312548825,7348.77242375612,8.929901714276,99900177,Asia,South-Eastern Asia
+Philippines,2004,,,,99900177,Asia,South-Eastern Asia
+Philippines,2005,,,,99900177,Asia,South-Eastern Asia
+Philippines,2006,,,,99900177,Asia,South-Eastern Asia
+Philippines,2007,,,,99900177,Asia,South-Eastern Asia
+Philippines,2008,,,,99900177,Asia,South-Eastern Asia
+Philippines,2009,,,,99900177,Asia,South-Eastern Asia
+Philippines,2010,,,,99900177,Asia,South-Eastern Asia
+Singapore,1995,,,,4701069,Asia,South-Eastern Asia
+Singapore,1996,,,,4701069,Asia,South-Eastern Asia
+Singapore,1997,,,,4701069,Asia,South-Eastern Asia
+Singapore,1998,,,,4701069,Asia,South-Eastern Asia
+Singapore,1999,,,,4701069,Asia,South-Eastern Asia
+Singapore,2000,2.7027027027027,1,0.0255147602888271,4701069,Asia,South-Eastern Asia
+Singapore,2001,,,,4701069,Asia,South-Eastern Asia
+Singapore,2002,,,,4701069,Asia,South-Eastern Asia
+Singapore,2003,0,0,0,4701069,Asia,South-Eastern Asia
+Singapore,2004,0,0,0,4701069,Asia,South-Eastern Asia
+Singapore,2005,0,0,0,4701069,Asia,South-Eastern Asia
+Singapore,2006,5.88235294117647,1,0.0226759683488834,4701069,Asia,South-Eastern Asia
+Singapore,2007,,,,4701069,Asia,South-Eastern Asia
+Singapore,2008,,,,4701069,Asia,South-Eastern Asia
+Singapore,2009,,,,4701069,Asia,South-Eastern Asia
+Singapore,2010,,,,4701069,Asia,South-Eastern Asia
+Viet Nam,1995,,,,89571130,Asia,South-Eastern Asia
+Viet Nam,1996,,,,89571130,Asia,South-Eastern Asia
+Viet Nam,1997,,,,89571130,Asia,South-Eastern Asia
+Viet Nam,1998,,,,89571130,Asia,South-Eastern Asia
+Viet Nam,1999,,,,89571130,Asia,South-Eastern Asia
+Viet Nam,2000,,,,89571130,Asia,South-Eastern Asia
+Viet Nam,2001,,,,89571130,Asia,South-Eastern Asia
+Viet Nam,2002,,,,89571130,Asia,South-Eastern Asia
+Viet Nam,2003,,,,89571130,Asia,South-Eastern Asia
+Viet Nam,2004,,,,89571130,Asia,South-Eastern Asia
+Viet Nam,2005,53.2135452660677,770,0.925913177361856,89571130,Asia,South-Eastern Asia
+Viet Nam,2006,52.8852251109702,834,0.991964610889393,89571130,Asia,South-Eastern Asia
+Viet Nam,2007,,,,89571130,Asia,South-Eastern Asia
+Viet Nam,2008,,,,89571130,Asia,South-Eastern Asia
+Viet Nam,2009,,,,89571130,Asia,South-Eastern Asia
+Viet Nam,2010,,,,89571130,Asia,South-Eastern Asia
+Bangladesh,1995,,,,156118464,Asia,South-Eastern Asia
+Bangladesh,1996,,,,156118464,Asia,South-Eastern Asia
+Bangladesh,1997,,,,156118464,Asia,South-Eastern Asia
+Bangladesh,1998,,,,156118464,Asia,South-Eastern Asia
+Bangladesh,1999,,,,156118464,Asia,South-Eastern Asia
+Bangladesh,2000,43.5536942865689,1456,1.12352375942162,156118464,Asia,South-Eastern Asia
+Bangladesh,2001,,,,156118464,Asia,South-Eastern Asia
+Bangladesh,2002,,,,156118464,Asia,South-Eastern Asia
+Bangladesh,2003,,,,156118464,Asia,South-Eastern Asia
+Bangladesh,2004,,,,156118464,Asia,South-Eastern Asia
+Bangladesh,2005,,,,156118464,Asia,South-Eastern Asia
+Bangladesh,2006,,,,156118464,Asia,South-Eastern Asia
+Bangladesh,2007,,,,156118464,Asia,South-Eastern Asia
+Bangladesh,2008,,,,156118464,Asia,South-Eastern Asia
+Bangladesh,2009,,,,156118464,Asia,South-Eastern Asia
+Bangladesh,2010,,,,156118464,Asia,South-Eastern Asia
+India,1995,,,,1173108018,Asia,South-Eastern Asia
+India,1996,,,,1173108018,Asia,South-Eastern Asia
+India,1997,,,,1173108018,Asia,South-Eastern Asia
+India,1998,,,,1173108018,Asia,South-Eastern Asia
+India,1999,21.1858031867606,9294,0.896880301460403,1173108018,Asia,South-Eastern Asia
+India,2000,,,,1173108018,Asia,South-Eastern Asia
+India,2001,,,,1173108018,Asia,South-Eastern Asia
+India,2002,,,,1173108018,Asia,South-Eastern Asia
+India,2003,,,,1173108018,Asia,South-Eastern Asia
+India,2004,20.7560171285131,8434,0.751029933278408,1173108018,Asia,South-Eastern Asia
+India,2005,14.2839062420898,5643,0.494981389133963,1173108018,Asia,South-Eastern Asia
+India,2006,13.9030898526148,5575,0.481833561466184,1173108018,Asia,South-Eastern Asia
+India,2007,11.9719878250971,4838,0.412105359319548,1173108018,Asia,South-Eastern Asia
+India,2008,10.0175875714495,4101,0.344371910262955,1173108018,Asia,South-Eastern Asia
+India,2009,7.58981154299175,3093,0.256098080308662,1173108018,Asia,South-Eastern Asia
+India,2010,,,,1173108018,Asia,South-Eastern Asia
+Maldives,1995,,,,395650,Asia,South-Eastern Asia
+Maldives,1996,,,,395650,Asia,South-Eastern Asia
+Maldives,1997,,,,395650,Asia,South-Eastern Asia
+Maldives,1998,,,,395650,Asia,South-Eastern Asia
+Maldives,1999,,,,395650,Asia,South-Eastern Asia
+Maldives,2000,,,,395650,Asia,South-Eastern Asia
+Maldives,2001,,,,395650,Asia,South-Eastern Asia
+Maldives,2002,,,,395650,Asia,South-Eastern Asia
+Maldives,2003,,,,395650,Asia,South-Eastern Asia
+Maldives,2004,,,,395650,Asia,South-Eastern Asia
+Maldives,2005,,,,395650,Asia,South-Eastern Asia
+Maldives,2006,,,,395650,Asia,South-Eastern Asia
+Maldives,2007,22.2222222222222,2,0.65889391478525,395650,Asia,South-Eastern Asia
+Maldives,2008,62.5,5,1.62531856243824,395650,Asia,South-Eastern Asia
+Maldives,2009,,,,395650,Asia,South-Eastern Asia
+Maldives,2010,,,,395650,Asia,South-Eastern Asia
+Nepal,1995,,,,28951852,Asia,South-Eastern Asia
+Nepal,1996,,,,28951852,Asia,South-Eastern Asia
+Nepal,1997,,,,28951852,Asia,South-Eastern Asia
+Nepal,1998,,,,28951852,Asia,South-Eastern Asia
+Nepal,1999,,,,28951852,Asia,South-Eastern Asia
+Nepal,2000,,,,28951852,Asia,South-Eastern Asia
+Nepal,2001,,,,28951852,Asia,South-Eastern Asia
+Nepal,2002,,,,28951852,Asia,South-Eastern Asia
+Nepal,2003,,,,28951852,Asia,South-Eastern Asia
+Nepal,2004,,,,28951852,Asia,South-Eastern Asia
+Nepal,2005,11.500547645126,105,0.38486992038141,28951852,Asia,South-Eastern Asia
+Nepal,2006,13.2701421800948,84,0.301792810971893,28951852,Asia,South-Eastern Asia
+Nepal,2007,,,,28951852,Asia,South-Eastern Asia
+Nepal,2008,,,,28951852,Asia,South-Eastern Asia
+Nepal,2009,,,,28951852,Asia,South-Eastern Asia
+Nepal,2010,,,,28951852,Asia,South-Eastern Asia
+Sri Lanka,1995,,,,21513990,Asia,South-Eastern Asia
+Sri Lanka,1996,,,,21513990,Asia,South-Eastern Asia
+Sri Lanka,1997,,,,21513990,Asia,South-Eastern Asia
+Sri Lanka,1998,,,,21513990,Asia,South-Eastern Asia
+Sri Lanka,1999,,,,21513990,Asia,South-Eastern Asia
+Sri Lanka,2000,,,,21513990,Asia,South-Eastern Asia
+Sri Lanka,2001,,,,21513990,Asia,South-Eastern Asia
+Sri Lanka,2002,,,,21513990,Asia,South-Eastern Asia
+Sri Lanka,2003,13.2824427480916,174,0.898303151810187,21513990,Asia,South-Eastern Asia
+Sri Lanka,2004,21.1328976034858,291,1.48389106220288,21513990,Asia,South-Eastern Asia
+Sri Lanka,2005,,,,21513990,Asia,South-Eastern Asia
+Sri Lanka,2006,,,,21513990,Asia,South-Eastern Asia
+Sri Lanka,2007,,,,21513990,Asia,South-Eastern Asia
+Sri Lanka,2008,,,,21513990,Asia,South-Eastern Asia
+Sri Lanka,2009,,,,21513990,Asia,South-Eastern Asia
+Sri Lanka,2010,,,,21513990,Asia,South-Eastern Asia
+Armenia,1995,,,,2968000,Asia,Western Asia
+Armenia,1996,,,,2968000,Asia,Western Asia
+Armenia,1997,,,,2968000,Asia,Western Asia
+Armenia,1998,,,,2968000,Asia,Western Asia
+Armenia,1999,,,,2968000,Asia,Western Asia
+Armenia,2000,,,,2968000,Asia,Western Asia
+Armenia,2001,,,,2968000,Asia,Western Asia
+Armenia,2002,,,,2968000,Asia,Western Asia
+Armenia,2003,,,,2968000,Asia,Western Asia
+Armenia,2004,25.3333333333333,19,0.620385474882225,2968000,Asia,Western Asia
+Armenia,2005,14.5454545454545,8,0.26093020312764,2968000,Asia,Western Asia
+Armenia,2006,21.3333333333333,16,0.521199122821876,2968000,Asia,Western Asia
+Armenia,2007,23.943661971831,17,0.552992813370455,2968000,Asia,Western Asia
+Armenia,2008,17.9487179487179,14,0.454680234757901,2968000,Asia,Western Asia
+Armenia,2009,13.0434782608696,9,0.291736183617457,2968000,Asia,Western Asia
+Armenia,2010,,,,2968000,Asia,Western Asia
+Azerbaijan,1995,,,,8303512,Asia,Western Asia
+Azerbaijan,1996,,,,8303512,Asia,Western Asia
+Azerbaijan,1997,,,,8303512,Asia,Western Asia
+Azerbaijan,1998,,,,8303512,Asia,Western Asia
+Azerbaijan,1999,,,,8303512,Asia,Western Asia
+Azerbaijan,2000,,,,8303512,Asia,Western Asia
+Azerbaijan,2001,,,,8303512,Asia,Western Asia
+Azerbaijan,2002,,,,8303512,Asia,Western Asia
+Azerbaijan,2003,7.65027322404372,14,0.167129595750515,8303512,Asia,Western Asia
+Azerbaijan,2004,7.96019900497512,16,0.188686632542689,8303512,Asia,Western Asia
+Azerbaijan,2005,8.85416666666667,17,0.197952887678504,8303512,Asia,Western Asia
+Azerbaijan,2006,9.47368421052632,18,0.206855679894973,8303512,Asia,Western Asia
+Azerbaijan,2007,12.5,22,0.249404490097055,8303512,Asia,Western Asia
+Azerbaijan,2008,6.54761904761905,11,0.122992978219062,8303512,Asia,Western Asia
+Azerbaijan,2009,,,,8303512,Asia,Western Asia
+Azerbaijan,2010,,,,8303512,Asia,Western Asia
+Bahrain,1995,,,,738004,Asia,Western Asia
+Bahrain,1996,,,,738004,Asia,Western Asia
+Bahrain,1997,,,,738004,Asia,Western Asia
+Bahrain,1998,,,,738004,Asia,Western Asia
+Bahrain,1999,,,,738004,Asia,Western Asia
+Bahrain,2000,,,,738004,Asia,Western Asia
+Bahrain,2001,,,,738004,Asia,Western Asia
+Bahrain,2002,,,,738004,Asia,Western Asia
+Bahrain,2003,,,,738004,Asia,Western Asia
+Bahrain,2004,,,,738004,Asia,Western Asia
+Bahrain,2005,,,,738004,Asia,Western Asia
+Bahrain,2006,,,,738004,Asia,Western Asia
+Bahrain,2007,25,1,0.108022507569677,738004,Asia,Western Asia
+Bahrain,2008,0,0,0,738004,Asia,Western Asia
+Bahrain,2009,,,,738004,Asia,Western Asia
+Bahrain,2010,,,,738004,Asia,Western Asia
+Cyprus,1995,100,9,1.05210983091426,1102677,Asia,Western Asia
+Cyprus,1996,70,7,0.801578422424958,1102677,Asia,Western Asia
+Cyprus,1997,66.6666666666667,4,0.449055748025839,1102677,Asia,Western Asia
+Cyprus,1998,,,,1102677,Asia,Western Asia
+Cyprus,1999,,,,1102677,Asia,Western Asia
+Cyprus,2000,,,,1102677,Asia,Western Asia
+Cyprus,2001,,,,1102677,Asia,Western Asia
+Cyprus,2002,,,,1102677,Asia,Western Asia
+Cyprus,2003,71.4285714285714,10,1.00186948846548,1102677,Asia,Western Asia
+Cyprus,2004,50,7,0.689107959590709,1102677,Asia,Western Asia
+Cyprus,2005,62.5,10,0.968464847631426,1102677,Asia,Western Asia
+Cyprus,2006,35.7142857142857,5,0.476975441488469,1102677,Asia,Western Asia
+Cyprus,2007,27.2727272727273,3,0.282212963546552,1102677,Asia,Western Asia
+Cyprus,2008,33.3333333333333,3,0.278551273397146,1102677,Asia,Western Asia
+Cyprus,2009,26.3157894736842,5,0.458516625354319,1102677,Asia,Western Asia
+Cyprus,2010,,,,1102677,Asia,Western Asia
+Georgia,1995,,,,4630000,Asia,Western Asia
+Georgia,1996,,,,4630000,Asia,Western Asia
+Georgia,1997,,,,4630000,Asia,Western Asia
+Georgia,1998,,,,4630000,Asia,Western Asia
+Georgia,1999,,,,4630000,Asia,Western Asia
+Georgia,2000,,,,4630000,Asia,Western Asia
+Georgia,2001,,,,4630000,Asia,Western Asia
+Georgia,2002,,,,4630000,Asia,Western Asia
+Georgia,2003,30.4635761589404,92,2.01318196539078,4630000,Asia,Western Asia
+Georgia,2004,28.4697508896797,80,1.77006540612934,4630000,Asia,Western Asia
+Georgia,2005,23.3250620347395,94,2.09961746756649,4630000,Asia,Western Asia
+Georgia,2006,25.3869969040248,82,1.84567251692335,4630000,Asia,Western Asia
+Georgia,2007,14.2424242424242,47,1.06432219886249,4630000,Asia,Western Asia
+Georgia,2008,17.1102661596958,45,1.02411960988781,4630000,Asia,Western Asia
+Georgia,2009,16.0975609756098,33,0.754521987456644,4630000,Asia,Western Asia
+Georgia,2010,13.3333333333333,24,0.55143967112138,4630000,Asia,Western Asia
+Israel,1995,,,,7353985,Asia,Western Asia
+Israel,1996,,,,7353985,Asia,Western Asia
+Israel,1997,,,,7353985,Asia,Western Asia
+Israel,1998,,,,7353985,Asia,Western Asia
+Israel,1999,,,,7353985,Asia,Western Asia
+Israel,2000,,,,7353985,Asia,Western Asia
+Israel,2001,,,,7353985,Asia,Western Asia
+Israel,2002,,,,7353985,Asia,Western Asia
+Israel,2003,,,,7353985,Asia,Western Asia
+Israel,2004,,,,7353985,Asia,Western Asia
+Israel,2005,,,,7353985,Asia,Western Asia
+Israel,2006,,,,7353985,Asia,Western Asia
+Israel,2007,11.7166110777261,6,0.0867029219751735,7353985,Asia,Western Asia
+Israel,2008,,,,7353985,Asia,Western Asia
+Israel,2009,,,,7353985,Asia,Western Asia
+Israel,2010,,,,7353985,Asia,Western Asia
+Jordan,1995,,,,6407085,Asia,Western Asia
+Jordan,1996,,,,6407085,Asia,Western Asia
+Jordan,1997,,,,6407085,Asia,Western Asia
+Jordan,1998,,,,6407085,Asia,Western Asia
+Jordan,1999,,,,6407085,Asia,Western Asia
+Jordan,2000,,,,6407085,Asia,Western Asia
+Jordan,2001,,,,6407085,Asia,Western Asia
+Jordan,2002,,,,6407085,Asia,Western Asia
+Jordan,2003,,,,6407085,Asia,Western Asia
+Jordan,2004,,,,6407085,Asia,Western Asia
+Jordan,2005,38.8059701492537,26,0.486708915496475,6407085,Asia,Western Asia
+Jordan,2006,,,,6407085,Asia,Western Asia
+Jordan,2007,,,,6407085,Asia,Western Asia
+Jordan,2008,,,,6407085,Asia,Western Asia
+Jordan,2009,,,,6407085,Asia,Western Asia
+Jordan,2010,,,,6407085,Asia,Western Asia
+Lebanon,1995,,,,4125247,Asia,Western Asia
+Lebanon,1996,,,,4125247,Asia,Western Asia
+Lebanon,1997,,,,4125247,Asia,Western Asia
+Lebanon,1998,,,,4125247,Asia,Western Asia
+Lebanon,1999,,,,4125247,Asia,Western Asia
+Lebanon,2000,,,,4125247,Asia,Western Asia
+Lebanon,2001,,,,4125247,Asia,Western Asia
+Lebanon,2002,,,,4125247,Asia,Western Asia
+Lebanon,2003,,,,4125247,Asia,Western Asia
+Lebanon,2004,,,,4125247,Asia,Western Asia
+Lebanon,2005,5.12820512820513,8,0.197412903894463,4125247,Asia,Western Asia
+Lebanon,2006,36.4705882352941,31,0.756566816930599,4125247,Asia,Western Asia
+Lebanon,2007,,,,4125247,Asia,Western Asia
+Lebanon,2008,,,,4125247,Asia,Western Asia
+Lebanon,2009,,,,4125247,Asia,Western Asia
+Lebanon,2010,,,,4125247,Asia,Western Asia
+Occupied Palestinian Territory,1995,,,,-1,Asia,Western Asia
+Occupied Palestinian Territory,1996,,,,-1,Asia,Western Asia
+Occupied Palestinian Territory,1997,,,,-1,Asia,Western Asia
+Occupied Palestinian Territory,1998,,,,-1,Asia,Western Asia
+Occupied Palestinian Territory,1999,,,,-1,Asia,Western Asia
+Occupied Palestinian Territory,2000,,,,-1,Asia,Western Asia
+Occupied Palestinian Territory,2001,,,,-1,Asia,Western Asia
+Occupied Palestinian Territory,2002,,,,-1,Asia,Western Asia
+Occupied Palestinian Territory,2003,,,,-1,Asia,Western Asia
+Occupied Palestinian Territory,2004,66.8965517241379,97,2.78456935199626,-1,Asia,Western Asia
+Occupied Palestinian Territory,2005,72.4137931034483,105,2.95310303629617,-1,Asia,Western Asia
+Occupied Palestinian Territory,2006,,,,-1,Asia,Western Asia
+Occupied Palestinian Territory,2007,,,,-1,Asia,Western Asia
+Occupied Palestinian Territory,2008,,,,-1,Asia,Western Asia
+Occupied Palestinian Territory,2009,,,,-1,Asia,Western Asia
+Occupied Palestinian Territory,2010,,,,-1,Asia,Western Asia
+Qatar,1995,,,,840926,Asia,Western Asia
+Qatar,1996,,,,840926,Asia,Western Asia
+Qatar,1997,,,,840926,Asia,Western Asia
+Qatar,1998,,,,840926,Asia,Western Asia
+Qatar,1999,,,,840926,Asia,Western Asia
+Qatar,2000,,,,840926,Asia,Western Asia
+Qatar,2001,,,,840926,Asia,Western Asia
+Qatar,2002,,,,840926,Asia,Western Asia
+Qatar,2003,50,2,0.306044376434583,840926,Asia,Western Asia
+Qatar,2004,16.6666666666667,1,0.139831586836814,840926,Asia,Western Asia
+Qatar,2005,,,,840926,Asia,Western Asia
+Qatar,2006,,,,840926,Asia,Western Asia
+Qatar,2007,,,,840926,Asia,Western Asia
+Qatar,2008,,,,840926,Asia,Western Asia
+Qatar,2009,,,,840926,Asia,Western Asia
+Qatar,2010,,,,840926,Asia,Western Asia
+Turkey,1995,,,,77804122,Asia,Western Asia
+Turkey,1996,,,,77804122,Asia,Western Asia
+Turkey,1997,,,,77804122,Asia,Western Asia
+Turkey,1998,,,,77804122,Asia,Western Asia
+Turkey,1999,,,,77804122,Asia,Western Asia
+Turkey,2000,,,,77804122,Asia,Western Asia
+Turkey,2001,,,,77804122,Asia,Western Asia
+Turkey,2002,,,,77804122,Asia,Western Asia
+Turkey,2003,18.9636940430032,538,0.810980702834768,77804122,Asia,Western Asia
+Turkey,2004,18.496911461908,539,0.801654746278727,77804122,Asia,Western Asia
+Turkey,2005,14.856278366112,491,0.720541596044541,77804122,Asia,Western Asia
+Turkey,2006,16.8876262626263,535,0.77464899061499,77804122,Asia,Western Asia
+Turkey,2007,,,,77804122,Asia,Western Asia
+Turkey,2008,,,,77804122,Asia,Western Asia
+Turkey,2009,,,,77804122,Asia,Western Asia
+Turkey,2010,,,,77804122,Asia,Western Asia
+Belarus,1995,8.33333333333333,80,0.778647083173427,9685000,Europe,Eastern Europe
+Belarus,1996,6.80412371134021,66,0.644257314809699,9685000,Europe,Eastern Europe
+Belarus,1997,6.36630754162586,65,0.63698124981993,9685000,Europe,Eastern Europe
+Belarus,1998,,,,9685000,Europe,Eastern Europe
+Belarus,1999,,,,9685000,Europe,Eastern Europe
+Belarus,2000,,,,9685000,Europe,Eastern Europe
+Belarus,2001,5.46955624355005,53,0.52948057955146,9685000,Europe,Eastern Europe
+Belarus,2002,3.8422649140546,38,0.381396559782957,9685000,Europe,Eastern Europe
+Belarus,2003,4.77815699658703,42,0.423475591219818,9685000,Europe,Eastern Europe
+Belarus,2004,5.2760736196319,43,0.435570511268614,9685000,Europe,Eastern Europe
+Belarus,2005,1.33333333333333,11,0.111958125218446,9685000,Europe,Eastern Europe
+Belarus,2006,0.817438692098093,6,0.0613696289684287,9685000,Europe,Eastern Europe
+Belarus,2007,2.4653312788906,16,0.164469829448899,9685000,Europe,Eastern Europe
+Belarus,2008,2.77264325323475,15,0.154947632865013,9685000,Europe,Eastern Europe
+Belarus,2009,2.5369978858351,12,0.124532794466095,9685000,Europe,Eastern Europe
+Belarus,2010,,,,9685000,Europe,Eastern Europe
+Bulgaria,1995,21.6599190283401,107,1.28042137590491,7148785,Europe,Eastern Europe
+Bulgaria,1996,23.972602739726,105,1.26918724029256,7148785,Europe,Eastern Europe
+Bulgaria,1997,27.6381909547739,110,1.34178937127166,7148785,Europe,Eastern Europe
+Bulgaria,1998,14.1732283464567,54,0.66418344057846,7148785,Europe,Eastern Europe
+Bulgaria,1999,20.7951070336391,68,0.842936090197137,7148785,Europe,Eastern Europe
+Bulgaria,2000,18.9759036144578,63,0.786894288121718,7148785,Europe,Eastern Europe
+Bulgaria,2001,,,,7148785,Europe,Eastern Europe
+Bulgaria,2002,,,,7148785,Europe,Eastern Europe
+Bulgaria,2003,20.6477732793522,51,0.650500496357389,7148785,Europe,Eastern Europe
+Bulgaria,2004,18.75,45,0.577724484477185,7148785,Europe,Eastern Europe
+Bulgaria,2005,21.9387755102041,43,0.555619085644806,7148785,Europe,Eastern Europe
+Bulgaria,2006,24.0437158469945,44,0.572207367950145,7148785,Europe,Eastern Europe
+Bulgaria,2007,31.9526627218935,54,0.706780102255375,7148785,Europe,Eastern Europe
+Bulgaria,2008,29.6511627906977,51,0.671819743649393,7148785,Europe,Eastern Europe
+Bulgaria,2009,,,,7148785,Europe,Eastern Europe
+Bulgaria,2010,,,,7148785,Europe,Eastern Europe
+Czech Republic,1995,,,,10476000,Europe,Eastern Europe
+Czech Republic,1996,,,,10476000,Europe,Eastern Europe
+Czech Republic,1997,,,,10476000,Europe,Eastern Europe
+Czech Republic,1998,,,,10476000,Europe,Eastern Europe
+Czech Republic,1999,,,,10476000,Europe,Eastern Europe
+Czech Republic,2000,,,,10476000,Europe,Eastern Europe
+Czech Republic,2001,,,,10476000,Europe,Eastern Europe
+Czech Republic,2002,,,,10476000,Europe,Eastern Europe
+Czech Republic,2003,19.8275862068966,46,0.451010149983425,10476000,Europe,Eastern Europe
+Czech Republic,2004,13.6563876651982,31,0.303871965997707,10476000,Europe,Eastern Europe
+Czech Republic,2005,12.3655913978495,23,0.225034875513642,10476000,Europe,Eastern Europe
+Czech Republic,2006,14.2857142857143,33,0.321675175137511,10476000,Europe,Eastern Europe
+Czech Republic,2007,16.3265306122449,32,0.31027219112767,10476000,Europe,Eastern Europe
+Czech Republic,2008,16.8316831683168,34,0.327636347552397,10476000,Europe,Eastern Europe
+Czech Republic,2009,11.0497237569061,20,0.191575744020322,10476000,Europe,Eastern Europe
+Czech Republic,2010,,,,10476000,Europe,Eastern Europe
+Hungary,1995,,,,9982000,Europe,Eastern Europe
+Hungary,1996,,,,9982000,Europe,Eastern Europe
+Hungary,1997,,,,9982000,Europe,Eastern Europe
+Hungary,1998,14.1868512110727,41,0.399416189916358,9982000,Europe,Eastern Europe
+Hungary,1999,18.9723320158103,48,0.468868041192402,9982000,Europe,Eastern Europe
+Hungary,2000,21.4634146341463,44,0.430927046499477,9982000,Europe,Eastern Europe
+Hungary,2001,12.5984251968504,32,0.314197926823892,9982000,Europe,Eastern Europe
+Hungary,2002,18.7192118226601,38,0.37404251268767,9982000,Europe,Eastern Europe
+Hungary,2003,9.32203389830508,22,0.21707999190489,9982000,Europe,Eastern Europe
+Hungary,2004,5.26315789473684,11,0.108798935906844,9982000,Europe,Eastern Europe
+Hungary,2005,12.8048780487805,21,0.208190078731539,9982000,Europe,Eastern Europe
+Hungary,2006,5.74712643678161,10,0.0993613647641151,9982000,Europe,Eastern Europe
+Hungary,2007,7.79220779220779,12,0.119491301630698,9982000,Europe,Eastern Europe
+Hungary,2008,8.16326530612245,12,0.119737941541143,9982000,Europe,Eastern Europe
+Hungary,2009,5.03597122302158,7,0.0699842745335123,9982000,Europe,Eastern Europe
+Hungary,2010,,,,9982000,Europe,Eastern Europe
+Poland,1995,,,,38500000,Europe,Eastern Europe
+Poland,1996,,,,38500000,Europe,Eastern Europe
+Poland,1997,,,,38500000,Europe,Eastern Europe
+Poland,1998,,,,38500000,Europe,Eastern Europe
+Poland,1999,,,,38500000,Europe,Eastern Europe
+Poland,2000,,,,38500000,Europe,Eastern Europe
+Poland,2001,16.8814432989691,131,0.342333212514971,38500000,Europe,Eastern Europe
+Poland,2002,15.5027932960894,111,0.290344119774326,38500000,Europe,Eastern Europe
+Poland,2003,14.5015105740181,96,0.251321065252609,38500000,Europe,Eastern Europe
+Poland,2004,10.5845181674566,67,0.175506915051038,38500000,Europe,Eastern Europe
+Poland,2005,9.72972972972973,54,0.141490746505179,38500000,Europe,Eastern Europe
+Poland,2006,9.79591836734694,48,0.125752122132557,38500000,Europe,Eastern Europe
+Poland,2007,10.2857142857143,54,0.141399152998126,38500000,Europe,Eastern Europe
+Poland,2008,6.95652173913043,32,0.0837291673327932,38500000,Europe,Eastern Europe
+Poland,2009,7.09939148073022,35,0.0915051148221867,38500000,Europe,Eastern Europe
+Poland,2010,,,,38500000,Europe,Eastern Europe
+Republic of Moldova,1995,6.71641791044776,27,0.622299049265341,4324000,Europe,Eastern Europe
+Republic of Moldova,1996,7.57575757575758,30,0.696430076214986,4324000,Europe,Eastern Europe
+Republic of Moldova,1997,5.31400966183575,22,0.515419234977286,4324000,Europe,Eastern Europe
+Republic of Moldova,1998,5.86666666666667,22,0.521167699921114,4324000,Europe,Eastern Europe
+Republic of Moldova,1999,8.18414322250639,32,0.767920320587536,4324000,Europe,Eastern Europe
+Republic of Moldova,2000,4.84261501210654,20,0.487004764854619,4324000,Europe,Eastern Europe
+Republic of Moldova,2001,8.27250608272506,34,0.841541664727821,4324000,Europe,Eastern Europe
+Republic of Moldova,2002,4.98753117206983,20,0.503929135469254,4324000,Europe,Eastern Europe
+Republic of Moldova,2003,4.49438202247191,16,0.410634509878198,4324000,Europe,Eastern Europe
+Republic of Moldova,2004,6.6006600660066,20,0.522478869648314,4324000,Europe,Eastern Europe
+Republic of Moldova,2005,4.85074626865672,13,0.345113563600182,4324000,Europe,Eastern Europe
+Republic of Moldova,2006,4.31372549019608,11,0.29610001289381,4324000,Europe,Eastern Europe
+Republic of Moldova,2007,2.7906976744186,6,0.163419164710176,4324000,Europe,Eastern Europe
+Republic of Moldova,2008,2.14592274678112,5,0.137549349267784,4324000,Europe,Eastern Europe
+Republic of Moldova,2009,3.33333333333333,8,0.222046250568647,4324000,Europe,Eastern Europe
+Republic of Moldova,2010,,,,4324000,Europe,Eastern Europe
+Romania,1995,,,,21959278,Europe,Eastern Europe
+Romania,1996,,,,21959278,Europe,Eastern Europe
+Romania,1997,,,,21959278,Europe,Eastern Europe
+Romania,1998,,,,21959278,Europe,Eastern Europe
+Romania,1999,,,,21959278,Europe,Eastern Europe
+Romania,2000,,,,21959278,Europe,Eastern Europe
+Romania,2001,,,,21959278,Europe,Eastern Europe
+Romania,2002,,,,21959278,Europe,Eastern Europe
+Romania,2003,1.24333925399645,7,0.0319265769003827,21959278,Europe,Eastern Europe
+Romania,2004,0.544464609800363,3,0.0137329537422848,21959278,Europe,Eastern Europe
+Romania,2005,1.53172866520788,7,0.0321517577664523,21959278,Europe,Eastern Europe
+Romania,2006,1.59817351598174,7,0.0322503734708428,21959278,Europe,Eastern Europe
+Romania,2007,1.68269230769231,7,0.0323402026695821,21959278,Europe,Eastern Europe
+Romania,2008,1.27659574468085,6,0.0277912307920908,21959278,Europe,Eastern Europe
+Romania,2009,1.25944584382872,5,0.0232156250071098,21959278,Europe,Eastern Europe
+Romania,2010,,,,21959278,Europe,Eastern Europe
+Slovakia,1995,,,,5455000,Europe,Eastern Europe
+Slovakia,1996,,,,5455000,Europe,Eastern Europe
+Slovakia,1997,,,,5455000,Europe,Eastern Europe
+Slovakia,1998,,,,5455000,Europe,Eastern Europe
+Slovakia,1999,,,,5455000,Europe,Eastern Europe
+Slovakia,2000,,,,5455000,Europe,Eastern Europe
+Slovakia,2001,,,,5455000,Europe,Eastern Europe
+Slovakia,2002,,,,5455000,Europe,Eastern Europe
+Slovakia,2003,27.3972602739726,40,0.739483345171229,5455000,Europe,Eastern Europe
+Slovakia,2004,25.4098360655738,31,0.57287115074476,5455000,Europe,Eastern Europe
+Slovakia,2005,11.3207547169811,12,0.221586351462544,5455000,Europe,Eastern Europe
+Slovakia,2006,11.2359550561798,10,0.184429638433071,5455000,Europe,Eastern Europe
+Slovakia,2007,,,,5455000,Europe,Eastern Europe
+Slovakia,2008,,,,5455000,Europe,Eastern Europe
+Slovakia,2009,,,,5455000,Europe,Eastern Europe
+Slovakia,2010,,,,5455000,Europe,Eastern Europe
+Ukraine,1995,6.3373253493014,254,0.496853372818701,45415596,Europe,Eastern Europe
+Ukraine,1996,5.46926274338219,250,0.492384553991079,45415596,Europe,Eastern Europe
+Ukraine,1997,5.35228935814342,256,0.508513246710485,45415596,Europe,Eastern Europe
+Ukraine,1998,4.5547385620915,223,0.447251185190571,45415596,Europe,Eastern Europe
+Ukraine,1999,4.46014572753367,202,0.409187631692076,45415596,Europe,Eastern Europe
+Ukraine,2000,3.79136532982687,173,0.353842624545241,45415596,Europe,Eastern Europe
+Ukraine,2001,,,,45415596,Europe,Eastern Europe
+Ukraine,2002,,,,45415596,Europe,Eastern Europe
+Ukraine,2003,3.61296708735462,146,0.306444069612506,45415596,Europe,Eastern Europe
+Ukraine,2004,3.02589467558918,104,0.219988260241881,45415596,Europe,Eastern Europe
+Ukraine,2005,3.30188679245283,105,0.223766437962449,45415596,Europe,Eastern Europe
+Ukraine,2006,4.71331389698737,97,0.208191154335601,45415596,Europe,Eastern Europe
+Ukraine,2007,2.83446712018141,75,0.162049487839353,45415596,Europe,Eastern Europe
+Ukraine,2008,3.42019543973941,84,0.182642111217565,45415596,Europe,Eastern Europe
+Ukraine,2009,4.46428571428571,100,0.218746534234598,45415596,Europe,Eastern Europe
+Ukraine,2010,,,,45415596,Europe,Eastern Europe
+Denmark,1995,23.3333333333333,14,0.267514355966831,5484000,Europe,Northern Europe
+Denmark,1996,31.8840579710145,22,0.418631937468567,5484000,Europe,Northern Europe
+Denmark,1997,21.5909090909091,19,0.360014036757812,5484000,Europe,Northern Europe
+Denmark,1998,28.5714285714286,14,0.264168438324878,5484000,Europe,Northern Europe
+Denmark,1999,21.1538461538462,11,0.20674795244346,5484000,Europe,Northern Europe
+Denmark,2000,24.1379310344828,14,0.262196785804516,5484000,Europe,Northern Europe
+Denmark,2001,,,,5484000,Europe,Northern Europe
+Denmark,2002,,,,5484000,Europe,Northern Europe
+Denmark,2003,,,,5484000,Europe,Northern Europe
+Denmark,2004,,,,5484000,Europe,Northern Europe
+Denmark,2005,20.7547169811321,11,0.202972851089521,5484000,Europe,Northern Europe
+Denmark,2006,27.5862068965517,8,0.146987383337951,5484000,Europe,Northern Europe
+Denmark,2007,17.9487179487179,7,0.127991106446546,5484000,Europe,Northern Europe
+Denmark,2008,11.1111111111111,6,0.109144250862967,5484000,Europe,Northern Europe
+Denmark,2009,31.9148936170213,15,0.271499404330307,5484000,Europe,Northern Europe
+Denmark,2010,,,,5484000,Europe,Northern Europe
+Estonia,1995,,,,1291170,Europe,Northern Europe
+Estonia,1996,,,,1291170,Europe,Northern Europe
+Estonia,1997,,,,1291170,Europe,Northern Europe
+Estonia,1998,,,,1291170,Europe,Northern Europe
+Estonia,1999,,,,1291170,Europe,Northern Europe
+Estonia,2000,,,,1291170,Europe,Northern Europe
+Estonia,2001,,,,1291170,Europe,Northern Europe
+Estonia,2002,,,,1291170,Europe,Northern Europe
+Estonia,2003,,,,1291170,Europe,Northern Europe
+Estonia,2004,,,,1291170,Europe,Northern Europe
+Estonia,2005,,,,1291170,Europe,Northern Europe
+Estonia,2006,,,,1291170,Europe,Northern Europe
+Estonia,2007,,,,1291170,Europe,Northern Europe
+Estonia,2008,3.87522005038076,3.271496437932,0.24375134116895,1291170,Europe,Northern Europe
+Estonia,2009,,,,1291170,Europe,Northern Europe
+Estonia,2010,,,,1291170,Europe,Northern Europe
+Finland,1995,,,,5244000,Europe,Northern Europe
+Finland,1996,,,,5244000,Europe,Northern Europe
+Finland,1997,,,,5244000,Europe,Northern Europe
+Finland,1998,19.4690265486726,22,0.427099543702378,5244000,Europe,Northern Europe
+Finland,1999,,,,5244000,Europe,Northern Europe
+Finland,2000,,,,5244000,Europe,Northern Europe
+Finland,2001,,,,5244000,Europe,Northern Europe
+Finland,2002,,,,5244000,Europe,Northern Europe
+Finland,2003,17.4757281553398,18,0.345449991795563,5244000,Europe,Northern Europe
+Finland,2004,19.5945945945946,29,0.5549106048583,5244000,Europe,Northern Europe
+Finland,2005,10.2564102564103,12,0.228818029030143,5244000,Europe,Northern Europe
+Finland,2006,15.8333333333333,19,0.360809550286977,5244000,Europe,Northern Europe
+Finland,2007,18.75,24,0.453649239542109,5244000,Europe,Northern Europe
+Finland,2008,22.7272727272727,30,0.5642986313501,5244000,Europe,Northern Europe
+Finland,2009,19.8347107438017,24,0.449308121656165,5244000,Europe,Northern Europe
+Finland,2010,,,,5244000,Europe,Northern Europe
+Iceland,1995,,,,308910,Europe,Northern Europe
+Iceland,1996,,,,308910,Europe,Northern Europe
+Iceland,1997,,,,308910,Europe,Northern Europe
+Iceland,1998,,,,308910,Europe,Northern Europe
+Iceland,1999,,,,308910,Europe,Northern Europe
+Iceland,2000,,,,308910,Europe,Northern Europe
+Iceland,2001,,,,308910,Europe,Northern Europe
+Iceland,2002,,,,308910,Europe,Northern Europe
+Iceland,2003,0,0,0,308910,Europe,Northern Europe
+Iceland,2004,0,0,0,308910,Europe,Northern Europe
+Iceland,2005,0,0,0,308910,Europe,Northern Europe
+Iceland,2006,0,0,0,308910,Europe,Northern Europe
+Iceland,2007,0,0,0,308910,Europe,Northern Europe
+Iceland,2008,0,0,0,308910,Europe,Northern Europe
+Iceland,2009,0,0,0,308910,Europe,Northern Europe
+Iceland,2010,,,,308910,Europe,Northern Europe
+Ireland,1995,27.906976744186,12,0.332321782751281,4622917,Europe,Northern Europe
+Ireland,1996,38.0952380952381,16,0.439746848732856,4622917,Europe,Northern Europe
+Ireland,1997,23.6842105263158,9,0.245240962870518,4622917,Europe,Northern Europe
+Ireland,1998,7.89473684210526,3,0.0809348078216477,4622917,Europe,Northern Europe
+Ireland,1999,31.5789473684211,12,0.31991938031616,4622917,Europe,Northern Europe
+Ireland,2000,,,,4622917,Europe,Northern Europe
+Ireland,2001,,,,4622917,Europe,Northern Europe
+Ireland,2002,,,,4622917,Europe,Northern Europe
+Ireland,2003,46.6666666666667,21,0.523624699726169,4622917,Europe,Northern Europe
+Ireland,2004,30,9,0.22028178445868,4622917,Europe,Northern Europe
+Ireland,2005,42.3076923076923,22,0.529095184704724,4622917,Europe,Northern Europe
+Ireland,2006,43.5483870967742,27,0.638837334978852,4622917,Europe,Northern Europe
+Ireland,2007,23.3766233766234,18,0.4194574178481,4622917,Europe,Northern Europe
+Ireland,2008,42,21,0.482440764314822,4622917,Europe,Northern Europe
+Ireland,2009,,,,4622917,Europe,Northern Europe
+Ireland,2010,,,,4622917,Europe,Northern Europe
+Latvia,1995,16.0919540229885,56,2.24710534710755,2217969,Europe,Northern Europe
+Latvia,1996,15.625,45,1.82732434641684,2217969,Europe,Northern Europe
+Latvia,1997,13.8059701492537,37,1.51701890205552,2217969,Europe,Northern Europe
+Latvia,1998,17.2794117647059,47,1.94229403108249,2217969,Europe,Northern Europe
+Latvia,1999,14.8,37,1.54009320477579,2217969,Europe,Northern Europe
+Latvia,2000,13.1004366812227,30,1.25787640274183,2217969,Europe,Northern Europe
+Latvia,2001,16.3865546218487,39,1.64744506615548,2217969,Europe,Northern Europe
+Latvia,2002,12.7853881278539,28,1.19131700094454,2217969,Europe,Northern Europe
+Latvia,2003,8.41121495327103,18,0.771133888121325,2217969,Europe,Northern Europe
+Latvia,2004,3.46534653465347,7,0.301824442519475,2217969,Europe,Northern Europe
+Latvia,2005,10.3174603174603,13,0.563862160858597,2217969,Europe,Northern Europe
+Latvia,2006,3.125,4,0.174437873951192,2217969,Europe,Northern Europe
+Latvia,2007,4.25531914893617,4,0.175308422298705,2217969,Europe,Northern Europe
+Latvia,2008,8.08080808080808,8,0.35223701324147,2217969,Europe,Northern Europe
+Latvia,2009,4.62962962962963,5,0.221103927690171,2217969,Europe,Northern Europe
+Latvia,2010,,,,2217969,Europe,Northern Europe
+Lithuania,1995,50.199203187251,252,6.94386272754928,2944459,Europe,Northern Europe
+Lithuania,1996,47.1604938271605,191,5.29960233559857,2944459,Europe,Northern Europe
+Lithuania,1997,33.5038363171356,131,3.66215578531157,2944459,Europe,Northern Europe
+Lithuania,1998,37.620578778135,117,3.29594547999108,2944459,Europe,Northern Europe
+Lithuania,1999,27.1844660194175,84,2.3838362281808,2944459,Europe,Northern Europe
+Lithuania,2000,22.4324324324324,83,2.37140960015177,2944459,Europe,Northern Europe
+Lithuania,2001,4.24929178470255,15,0.431081307107496,2944459,Europe,Northern Europe
+Lithuania,2002,5.46075085324232,16,0.462106941943772,2944459,Europe,Northern Europe
+Lithuania,2003,2.03488372093023,7,0.203065122984941,2944459,Europe,Northern Europe
+Lithuania,2004,4.95356037151703,16,0.466192315985152,2944459,Europe,Northern Europe
+Lithuania,2005,2.9810298102981,11,0.322037808409754,2944459,Europe,Northern Europe
+Lithuania,2006,3.24909747292419,9,0.264869867962371,2944459,Europe,Northern Europe
+Lithuania,2007,2.63157894736842,7,0.207159245975858,2944459,Europe,Northern Europe
+Lithuania,2008,1.3986013986014,4,0.119054741072308,2944459,Europe,Northern Europe
+Lithuania,2009,2.5,6,0.179581736178267,2944459,Europe,Northern Europe
+Lithuania,2010,,,,2944459,Europe,Northern Europe
+Norway,1995,,,,5009150,Europe,Northern Europe
+Norway,1996,,,,5009150,Europe,Northern Europe
+Norway,1997,,,,5009150,Europe,Northern Europe
+Norway,1998,,,,5009150,Europe,Northern Europe
+Norway,1999,,,,5009150,Europe,Northern Europe
+Norway,2000,,,,5009150,Europe,Northern Europe
+Norway,2001,,,,5009150,Europe,Northern Europe
+Norway,2002,,,,5009150,Europe,Northern Europe
+Norway,2003,,,,5009150,Europe,Northern Europe
+Norway,2004,,,,5009150,Europe,Northern Europe
+Norway,2005,,,,5009150,Europe,Northern Europe
+Norway,2006,,,,5009150,Europe,Northern Europe
+Norway,2007,8.05383489936139,2.395911247137,0.0507391598659767,5009150,Europe,Northern Europe
+Norway,2008,,,,5009150,Europe,Northern Europe
+Norway,2009,,,,5009150,Europe,Northern Europe
+Norway,2010,,,,5009150,Europe,Northern Europe
+Sweden,1995,,,,9555893,Europe,Northern Europe
+Sweden,1996,28.8659793814433,28,0.316476405949259,9555893,Europe,Northern Europe
+Sweden,1997,19.7802197802198,18,0.203299459878513,9555893,Europe,Northern Europe
+Sweden,1998,,,,9555893,Europe,Northern Europe
+Sweden,1999,,,,9555893,Europe,Northern Europe
+Sweden,2000,,,,9555893,Europe,Northern Europe
+Sweden,2001,39.2857142857143,33,0.371746290591597,9555893,Europe,Northern Europe
+Sweden,2002,58.5858585858586,58,0.651551349379695,9555893,Europe,Northern Europe
+Sweden,2003,48.1927710843374,40,0.447658032238541,9555893,Europe,Northern Europe
+Sweden,2004,33.9449541284404,37,0.412120118534657,9555893,Europe,Northern Europe
+Sweden,2005,,,,9555893,Europe,Northern Europe
+Sweden,2006,,,,9555893,Europe,Northern Europe
+Sweden,2007,,,,9555893,Europe,Northern Europe
+Sweden,2008,,,,9555893,Europe,Northern Europe
+Sweden,2009,,,,9555893,Europe,Northern Europe
+Sweden,2010,,,,9555893,Europe,Northern Europe
+United Kingdom (England and Wales),1995,9.29614873837981,70,0.136526759244812,-1,Europe,Northern Europe
+United Kingdom (England and Wales),1996,7.21649484536082,49,0.0953121960708034,-1,Europe,Northern Europe
+United Kingdom (England and Wales),1997,7.98376184032476,59,0.114429790535299,-1,Europe,Northern Europe
+United Kingdom (England and Wales),1998,6.53333333333333,49,0.0947409126063418,-1,Europe,Northern Europe
+United Kingdom (England and Wales),1999,8.09399477806789,62,0.119384591685441,-1,Europe,Northern Europe
+United Kingdom (England and Wales),2000,,,,-1,Europe,Northern Europe
+United Kingdom (England and Wales),2001,10.7744107744108,96,0.183346065699007,-1,Europe,Northern Europe
+United Kingdom (England and Wales),2002,,,,-1,Europe,Northern Europe
+United Kingdom (England and Wales),2003,7.52212389380531,68,0.128807395059858,-1,Europe,Northern Europe
+United Kingdom (England and Wales),2004,9.35897435897436,73,0.137598250805798,-1,Europe,Northern Europe
+United Kingdom (England and Wales),2005,7.05218617771509,50,0.093604912385802,-1,Europe,Northern Europe
+United Kingdom (England and Wales),2006,8.25174825174825,59,0.109816476194022,-1,Europe,Northern Europe
+United Kingdom (England and Wales),2007,7.1236559139785,53,0.0979993343441441,-1,Europe,Northern Europe
+United Kingdom (England and Wales),2008,5.90062111801242,38,0.0697823891286383,-1,Europe,Northern Europe
+United Kingdom (England and Wales),2009,6.62358642972536,41,0.0748052327172545,-1,Europe,Northern Europe
+United Kingdom (England and Wales),2010,,,,-1,Europe,Northern Europe
+United Kingdom (Northern Ireland),1995,,,,-1,Europe,Northern Europe
+United Kingdom (Northern Ireland),1996,,,,-1,Europe,Northern Europe
+United Kingdom (Northern Ireland),1997,,,,-1,Europe,Northern Europe
+United Kingdom (Northern Ireland),1998,,,,-1,Europe,Northern Europe
+United Kingdom (Northern Ireland),1999,,,,-1,Europe,Northern Europe
+United Kingdom (Northern Ireland),2000,,,,-1,Europe,Northern Europe
+United Kingdom (Northern Ireland),2001,,,,-1,Europe,Northern Europe
+United Kingdom (Northern Ireland),2002,,,,-1,Europe,Northern Europe
+United Kingdom (Northern Ireland),2003,36.3636363636364,12,0.704638872577804,-1,Europe,Northern Europe
+United Kingdom (Northern Ireland),2004,14.6341463414634,6,0.350877192982456,-1,Europe,Northern Europe
+United Kingdom (Northern Ireland),2005,24.1379310344828,7,0.406032482598608,-1,Europe,Northern Europe
+United Kingdom (Northern Ireland),2006,0,0,0,-1,Europe,Northern Europe
+United Kingdom (Northern Ireland),2007,13.3333333333333,4,0.22740193291643,-1,Europe,Northern Europe
+United Kingdom (Northern Ireland),2008,3.84615384615385,1,0.0563380281690141,-1,Europe,Northern Europe
+United Kingdom (Northern Ireland),2009,4.5045045045045,5,0.279485746226942,-1,Europe,Northern Europe
+United Kingdom (Northern Ireland),2010,,,,-1,Europe,Northern Europe
+Albania,1995,,,,2986952,Europe,Southern Europe
+Albania,1996,,,,2986952,Europe,Southern Europe
+Albania,1997,,,,2986952,Europe,Southern Europe
+Albania,1998,,,,2986952,Europe,Southern Europe
+Albania,1999,,,,2986952,Europe,Southern Europe
+Albania,2000,,,,2986952,Europe,Southern Europe
+Albania,2001,78.8461538461538,164,5.32921207599456,2986952,Europe,Southern Europe
+Albania,2002,75.4189944134078,135,4.36924594582523,2986952,Europe,Southern Europe
+Albania,2003,,,,2986952,Europe,Southern Europe
+Albania,2004,,,,2986952,Europe,Southern Europe
+Albania,2005,,,,2986952,Europe,Southern Europe
+Albania,2006,,,,2986952,Europe,Southern Europe
+Albania,2007,61.1650485436893,63,1.98759174865483,2986952,Europe,Southern Europe
+Albania,2008,65.8823529411765,56,1.76023300455743,2986952,Europe,Southern Europe
+Albania,2009,,,,2986952,Europe,Southern Europe
+Albania,2010,,,,2986952,Europe,Southern Europe
+Bosnia and Herzegovina,1995,,,,4590000,Europe,Southern Europe
+Bosnia and Herzegovina,1996,,,,4590000,Europe,Southern Europe
+Bosnia and Herzegovina,1997,,,,4590000,Europe,Southern Europe
+Bosnia and Herzegovina,1998,,,,4590000,Europe,Southern Europe
+Bosnia and Herzegovina,1999,,,,4590000,Europe,Southern Europe
+Bosnia and Herzegovina,2000,,,,4590000,Europe,Southern Europe
+Bosnia and Herzegovina,2001,,,,4590000,Europe,Southern Europe
+Bosnia and Herzegovina,2002,,,,4590000,Europe,Southern Europe
+Bosnia and Herzegovina,2003,,,,4590000,Europe,Southern Europe
+Bosnia and Herzegovina,2004,,,,4590000,Europe,Southern Europe
+Bosnia and Herzegovina,2005,25.7142857142857,18,0.476064407282622,4590000,Europe,Southern Europe
+Bosnia and Herzegovina,2006,24.6575342465753,18,0.475990509806991,4590000,Europe,Southern Europe
+Bosnia and Herzegovina,2007,,,,4590000,Europe,Southern Europe
+Bosnia and Herzegovina,2008,,,,4590000,Europe,Southern Europe
+Bosnia and Herzegovina,2009,,,,4590000,Europe,Southern Europe
+Bosnia and Herzegovina,2010,,,,4590000,Europe,Southern Europe
+Croatia,1995,,,,4491000,Europe,Southern Europe
+Croatia,1996,,,,4491000,Europe,Southern Europe
+Croatia,1997,,,,4491000,Europe,Southern Europe
+Croatia,1998,,,,4491000,Europe,Southern Europe
+Croatia,1999,,,,4491000,Europe,Southern Europe
+Croatia,2000,,,,4491000,Europe,Southern Europe
+Croatia,2001,,,,4491000,Europe,Southern Europe
+Croatia,2002,,,,4491000,Europe,Southern Europe
+Croatia,2003,78.2608695652174,54,1.21168957320927,4491000,Europe,Southern Europe
+Croatia,2004,48.1927710843374,40,0.898972968332329,4491000,Europe,Southern Europe
+Croatia,2005,47.0588235294118,32,0.720398488423872,4491000,Europe,Southern Europe
+Croatia,2006,50,37,0.834500318125054,4491000,Europe,Southern Europe
+Croatia,2007,46.7741935483871,29,0.655219899706168,4491000,Europe,Southern Europe
+Croatia,2008,38.0281690140845,27,0.611082732227847,4491000,Europe,Southern Europe
+Croatia,2009,34.6938775510204,17,0.385412019051143,4491000,Europe,Southern Europe
+Croatia,2010,,,,4491000,Europe,Southern Europe
+Greece,1995,,,,11000000,Europe,Southern Europe
+Greece,1996,,,,11000000,Europe,Southern Europe
+Greece,1997,,,,11000000,Europe,Southern Europe
+Greece,1998,,,,11000000,Europe,Southern Europe
+Greece,1999,,,,11000000,Europe,Southern Europe
+Greece,2000,,,,11000000,Europe,Southern Europe
+Greece,2001,,,,11000000,Europe,Southern Europe
+Greece,2002,,,,11000000,Europe,Southern Europe
+Greece,2003,,,,11000000,Europe,Southern Europe
+Greece,2004,,,,11000000,Europe,Southern Europe
+Greece,2005,,,,11000000,Europe,Southern Europe
+Greece,2006,34.9301553476502,29,0.258483149572611,11000000,Europe,Southern Europe
+Greece,2007,,,,11000000,Europe,Southern Europe
+Greece,2008,,,,11000000,Europe,Southern Europe
+Greece,2009,,,,11000000,Europe,Southern Europe
+Greece,2010,,,,11000000,Europe,Southern Europe
+Italy,1995,,,,60340328,Europe,Southern Europe
+Italy,1996,,,,60340328,Europe,Southern Europe
+Italy,1997,,,,60340328,Europe,Southern Europe
+Italy,1998,71.1187214611872,623,1.09583697688868,60340328,Europe,Southern Europe
+Italy,1999,71.304347826087,574,1.00925424603723,60340328,Europe,Southern Europe
+Italy,2000,71.1796246648794,531,0.931802432825599,60340328,Europe,Southern Europe
+Italy,2001,65.7263751763047,466,0.814696438425147,60340328,Europe,Southern Europe
+Italy,2002,65.6832298136646,423,0.735666669744988,60340328,Europe,Southern Europe
+Italy,2003,65.9248956884562,474,0.819157473381011,60340328,Europe,Southern Europe
+Italy,2004,66.9467787114846,478,0.820406749427972,60340328,Europe,Southern Europe
+Italy,2005,66.2295081967213,404,0.688583084520199,60340328,Europe,Southern Europe
+Italy,2006,66.72,417,0.705797525815772,60340328,Europe,Southern Europe
+Italy,2007,,,,60340328,Europe,Southern Europe
+Italy,2008,,,,60340328,Europe,Southern Europe
+Italy,2009,,,,60340328,Europe,Southern Europe
+Italy,2010,,,,60340328,Europe,Southern Europe
+Malta,1995,,,,403000,Europe,Southern Europe
+Malta,1996,,,,403000,Europe,Southern Europe
+Malta,1997,,,,403000,Europe,Southern Europe
+Malta,1998,,,,403000,Europe,Southern Europe
+Malta,1999,,,,403000,Europe,Southern Europe
+Malta,2000,,,,403000,Europe,Southern Europe
+Malta,2001,,,,403000,Europe,Southern Europe
+Malta,2002,,,,403000,Europe,Southern Europe
+Malta,2003,,,,403000,Europe,Southern Europe
+Malta,2004,57.1428571428571,4,0.982359283172431,403000,Europe,Southern Europe
+Malta,2005,0,0,0,403000,Europe,Southern Europe
+Malta,2006,0,0,0,403000,Europe,Southern Europe
+Malta,2007,50,2,0.484721575926788,403000,Europe,Southern Europe
+Malta,2008,83.3333333333333,5,1.20788701907978,403000,Europe,Southern Europe
+Malta,2009,0,0,0,403000,Europe,Southern Europe
+Malta,2010,,,,403000,Europe,Southern Europe
+Portugal,1995,,,,10676000,Europe,Southern Europe
+Portugal,1996,,,,10676000,Europe,Southern Europe
+Portugal,1997,,,,10676000,Europe,Southern Europe
+Portugal,1998,,,,10676000,Europe,Southern Europe
+Portugal,1999,,,,10676000,Europe,Southern Europe
+Portugal,2000,,,,10676000,Europe,Southern Europe
+Portugal,2001,,,,10676000,Europe,Southern Europe
+Portugal,2002,,,,10676000,Europe,Southern Europe
+Portugal,2003,53.0201342281879,79,0.754838995708692,10676000,Europe,Southern Europe
+Portugal,2004,50,72,0.685306169573491,10676000,Europe,Southern Europe
+Portugal,2005,50.3703703703704,68,0.644937153245509,10676000,Europe,Southern Europe
+Portugal,2006,51.6129032258064,80,0.756313087147121,10676000,Europe,Southern Europe
+Portugal,2007,28.6486486486486,53,0.499621230546352,10676000,Europe,Southern Europe
+Portugal,2008,43.5483870967742,54,0.507775930142068,10676000,Europe,Southern Europe
+Portugal,2009,33.8461538461538,44,0.412867387464314,10676000,Europe,Southern Europe
+Portugal,2010,,,,10676000,Europe,Southern Europe
+Serbia,1995,,,,7344847,Europe,Southern Europe
+Serbia,1996,,,,7344847,Europe,Southern Europe
+Serbia,1997,,,,7344847,Europe,Southern Europe
+Serbia,1998,,,,7344847,Europe,Southern Europe
+Serbia,1999,,,,7344847,Europe,Southern Europe
+Serbia,2000,,,,7344847,Europe,Southern Europe
+Serbia,2001,,,,7344847,Europe,Southern Europe
+Serbia,2002,,,,7344847,Europe,Southern Europe
+Serbia,2003,,,,7344847,Europe,Southern Europe
+Serbia,2004,,,,7344847,Europe,Southern Europe
+Serbia,2005,26.056338028169,37,0.375400054706949,7344847,Europe,Southern Europe
+Serbia,2006,32.6388888888889,47,0.477844243313815,7344847,Europe,Southern Europe
+Serbia,2007,28.9655172413793,42,0.427133383789312,7344847,Europe,Southern Europe
+Serbia,2008,38.28125,49,0.497898664412236,7344847,Europe,Southern Europe
+Serbia,2009,33.0882352941176,45,0.456786013009266,7344847,Europe,Southern Europe
+Serbia,2010,,,,7344847,Europe,Southern Europe
+Slovenia,1995,,,,2007000,Europe,Southern Europe
+Slovenia,1996,,,,2007000,Europe,Southern Europe
+Slovenia,1997,,,,2007000,Europe,Southern Europe
+Slovenia,1998,,,,2007000,Europe,Southern Europe
+Slovenia,1999,,,,2007000,Europe,Southern Europe
+Slovenia,2000,,,,2007000,Europe,Southern Europe
+Slovenia,2001,,,,2007000,Europe,Southern Europe
+Slovenia,2002,,,,2007000,Europe,Southern Europe
+Slovenia,2003,23.8095238095238,5,0.25069869726929,2007000,Europe,Southern Europe
+Slovenia,2004,25,7,0.350357539869437,2007000,Europe,Southern Europe
+Slovenia,2005,55,11,0.549427496548596,2007000,Europe,Southern Europe
+Slovenia,2006,25,3,0.14948405578147,2007000,Europe,Southern Europe
+Slovenia,2007,36,9,0.447239414712686,2007000,Europe,Southern Europe
+Slovenia,2008,18.1818181818182,2,0.0990995812051698,2007000,Europe,Southern Europe
+Slovenia,2009,15.3846153846154,2,0.0988122764372246,2007000,Europe,Southern Europe
+Slovenia,2010,,,,2007000,Europe,Southern Europe
+Spain,1995,,,,46505963,Europe,Southern Europe
+Spain,1996,,,,46505963,Europe,Southern Europe
+Spain,1997,,,,46505963,Europe,Southern Europe
+Spain,1998,19.8275862068966,92,0.231539546967206,46505963,Europe,Southern Europe
+Spain,1999,18.1222707423581,83,0.207765368316682,46505963,Europe,Southern Europe
+Spain,2000,19.6356275303644,97,0.240763750272193,46505963,Europe,Southern Europe
+Spain,2001,,,,46505963,Europe,Southern Europe
+Spain,2002,,,,46505963,Europe,Southern Europe
+Spain,2003,,,,46505963,Europe,Southern Europe
+Spain,2004,,,,46505963,Europe,Southern Europe
+Spain,2005,15.5555555555556,63,0.145176540549501,46505963,Europe,Southern Europe
+Spain,2006,17.8571428571429,60,0.136308223972677,46505963,Europe,Southern Europe
+Spain,2007,17.4142480211082,66,0.147967518170411,46505963,Europe,Southern Europe
+Spain,2008,16.7076167076167,68,0.150621564250131,46505963,Europe,Southern Europe
+Spain,2009,21.8446601941748,90,0.19720359603825,46505963,Europe,Southern Europe
+Spain,2010,,,,46505963,Europe,Southern Europe
+The former Yugoslav Republic of Macedonia,1995,,,,2062294,Europe,Southern Europe
+The former Yugoslav Republic of Macedonia,1996,,,,2062294,Europe,Southern Europe
+The former Yugoslav Republic of Macedonia,1997,,,,2062294,Europe,Southern Europe
+The former Yugoslav Republic of Macedonia,1998,,,,2062294,Europe,Southern Europe
+The former Yugoslav Republic of Macedonia,1999,35.2941176470588,18,0.899470212045105,2062294,Europe,Southern Europe
+The former Yugoslav Republic of Macedonia,2000,47.2727272727273,26,1.29411758850147,2062294,Europe,Southern Europe
+The former Yugoslav Republic of Macedonia,2001,,,,2062294,Europe,Southern Europe
+The former Yugoslav Republic of Macedonia,2002,,,,2062294,Europe,Southern Europe
+The former Yugoslav Republic of Macedonia,2003,,,,2062294,Europe,Southern Europe
+The former Yugoslav Republic of Macedonia,2004,55.3571428571429,31,1.52481088655948,2062294,Europe,Southern Europe
+The former Yugoslav Republic of Macedonia,2005,60.377358490566,32,1.57008285621623,2062294,Europe,Southern Europe
+The former Yugoslav Republic of Macedonia,2006,54.9019607843137,28,1.37047248507286,2062294,Europe,Southern Europe
+The former Yugoslav Republic of Macedonia,2007,61.9047619047619,26,1.26957960312942,2062294,Europe,Southern Europe
+The former Yugoslav Republic of Macedonia,2008,47.2222222222222,17,0.82824853692332,2062294,Europe,Southern Europe
+The former Yugoslav Republic of Macedonia,2009,36.1111111111111,13,0.63205931244588,2062294,Europe,Southern Europe
+The former Yugoslav Republic of Macedonia,2010,62.5,25,1.21326064769677,2062294,Europe,Southern Europe
+Austria,1995,,,,8205000,Europe,Western Europe
+Austria,1996,,,,8205000,Europe,Western Europe
+Austria,1997,,,,8205000,Europe,Western Europe
+Austria,1998,,,,8205000,Europe,Western Europe
+Austria,1999,,,,8205000,Europe,Western Europe
+Austria,2000,,,,8205000,Europe,Western Europe
+Austria,2001,31.4285714285714,22,0.273683581970721,8205000,Europe,Western Europe
+Austria,2002,38.4615384615385,25,0.309288847205,8205000,Europe,Western Europe
+Austria,2003,,,,8205000,Europe,Western Europe
+Austria,2004,,,,8205000,Europe,Western Europe
+Austria,2005,24.0740740740741,13,0.157916551063653,8205000,Europe,Western Europe
+Austria,2006,29.5081967213115,18,0.217569774626723,8205000,Europe,Western Europe
+Austria,2007,,,,8205000,Europe,Western Europe
+Austria,2008,,,,8205000,Europe,Western Europe
+Austria,2009,,,,8205000,Europe,Western Europe
+Austria,2010,,,,8205000,Europe,Western Europe
+Belgium,1995,37.281836620754,59,0.585324834945837,10403000,Europe,Western Europe
+Belgium,1996,,,,10403000,Europe,Western Europe
+Belgium,1997,,,,10403000,Europe,Western Europe
+Belgium,1998,,,,10403000,Europe,Western Europe
+Belgium,1999,,,,10403000,Europe,Western Europe
+Belgium,2000,,,,10403000,Europe,Western Europe
+Belgium,2001,,,,10403000,Europe,Western Europe
+Belgium,2002,,,,10403000,Europe,Western Europe
+Belgium,2003,,,,10403000,Europe,Western Europe
+Belgium,2004,39.5246694814025,70,0.675871848131982,10403000,Europe,Western Europe
+Belgium,2005,,,,10403000,Europe,Western Europe
+Belgium,2006,,,,10403000,Europe,Western Europe
+Belgium,2007,,,,10403000,Europe,Western Europe
+Belgium,2008,,,,10403000,Europe,Western Europe
+Belgium,2009,,,,10403000,Europe,Western Europe
+Belgium,2010,,,,10403000,Europe,Western Europe
+France,1995,,,,64768389,Europe,Western Europe
+France,1996,,,,64768389,Europe,Western Europe
+France,1997,,,,64768389,Europe,Western Europe
+France,1998,,,,64768389,Europe,Western Europe
+France,1999,,,,64768389,Europe,Western Europe
+France,2000,,,,64768389,Europe,Western Europe
+France,2001,,,,64768389,Europe,Western Europe
+France,2002,,,,64768389,Europe,Western Europe
+France,2003,,,,64768389,Europe,Western Europe
+France,2004,,,,64768389,Europe,Western Europe
+France,2005,,,,64768389,Europe,Western Europe
+France,2006,,,,64768389,Europe,Western Europe
+France,2007,9.60764791437053,35,0.0566851226947861,64768389,Europe,Western Europe
+France,2008,,,,64768389,Europe,Western Europe
+France,2009,,,,64768389,Europe,Western Europe
+France,2010,,,,64768389,Europe,Western Europe
+Germany,1995,58.600583090379,804,0.981332217316117,81802257,Europe,Western Europe
+Germany,1996,46.5972778222578,582,0.708026328798449,81802257,Europe,Western Europe
+Germany,1997,47.1137521222411,555,0.674148958909333,81802257,Europe,Western Europe
+Germany,1998,41.2307692307692,402,0.488157523138272,81802257,Europe,Western Europe
+Germany,1999,41.1940298507463,414,0.502783862022506,81802257,Europe,Western Europe
+Germany,2000,40,384,0.466307877566058,81802257,Europe,Western Europe
+Germany,2001,38.1336405529954,331,0.401775795608326,81802257,Europe,Western Europe
+Germany,2002,29.4310722100656,269,0.326329477817275,81802257,Europe,Western Europe
+Germany,2003,33.780487804878,277,0.335822253088234,81802257,Europe,Western Europe
+Germany,2004,30.5315203955501,247,0.299305624281068,81802257,Europe,Western Europe
+Germany,2005,28.6069651741294,230,0.278650279591027,81802257,Europe,Western Europe
+Germany,2006,29.4360385144429,214,0.25928036516562,81802257,Europe,Western Europe
+Germany,2007,26.878612716763,186,0.225410018096183,81802257,Europe,Western Europe
+Germany,2008,26.0670731707317,171,0.207334874959065,81802257,Europe,Western Europe
+Germany,2009,29.9363057324841,188,0.228140485755994,81802257,Europe,Western Europe
+Germany,2010,26.2895174708819,158,0.19197480901696,81802257,Europe,Western Europe
+Liechtenstein,1995,,,,35000,Europe,Western Europe
+Liechtenstein,1996,,,,35000,Europe,Western Europe
+Liechtenstein,1997,,,,35000,Europe,Western Europe
+Liechtenstein,1998,,,,35000,Europe,Western Europe
+Liechtenstein,1999,,,,35000,Europe,Western Europe
+Liechtenstein,2000,,,,35000,Europe,Western Europe
+Liechtenstein,2001,,,,35000,Europe,Western Europe
+Liechtenstein,2002,,,,35000,Europe,Western Europe
+Liechtenstein,2003,,,,35000,Europe,Western Europe
+Liechtenstein,2004,,,,35000,Europe,Western Europe
+Liechtenstein,2005,0,0,0,35000,Europe,Western Europe
+Liechtenstein,2006,0,0,0,35000,Europe,Western Europe
+Liechtenstein,2007,0,0,0,35000,Europe,Western Europe
+Liechtenstein,2008,100,1,2.81523605754343,35000,Europe,Western Europe
+Liechtenstein,2009,,,,35000,Europe,Western Europe
+Liechtenstein,2010,,,,35000,Europe,Western Europe
+Luxembourg,1995,,,,497538,Europe,Western Europe
+Luxembourg,1996,,,,497538,Europe,Western Europe
+Luxembourg,1997,,,,497538,Europe,Western Europe
+Luxembourg,1998,,,,497538,Europe,Western Europe
+Luxembourg,1999,,,,497538,Europe,Western Europe
+Luxembourg,2000,,,,497538,Europe,Western Europe
+Luxembourg,2001,,,,497538,Europe,Western Europe
+Luxembourg,2002,,,,497538,Europe,Western Europe
+Luxembourg,2003,,,,497538,Europe,Western Europe
+Luxembourg,2004,,,,497538,Europe,Western Europe
+Luxembourg,2005,,,,497538,Europe,Western Europe
+Luxembourg,2006,11.1111111111111,1,0.214783090556847,497538,Europe,Western Europe
+Luxembourg,2007,28.5714285714286,2,0.420420672925329,497538,Europe,Western Europe
+Luxembourg,2008,42.8571428571429,3,0.616293569387466,497538,Europe,Western Europe
+Luxembourg,2009,,,,497538,Europe,Western Europe
+Luxembourg,2010,,,,497538,Europe,Western Europe
+Monaco,1995,,,,32965,Europe,Western Europe
+Monaco,1996,,,,32965,Europe,Western Europe
+Monaco,1997,,,,32965,Europe,Western Europe
+Monaco,1998,,,,32965,Europe,Western Europe
+Monaco,1999,,,,32965,Europe,Western Europe
+Monaco,2000,,,,32965,Europe,Western Europe
+Monaco,2001,,,,32965,Europe,Western Europe
+Monaco,2002,,,,32965,Europe,Western Europe
+Monaco,2003,,,,32965,Europe,Western Europe
+Monaco,2004,100,1,2.83430644521286,32965,Europe,Western Europe
+Monaco,2005,0,0,0,32965,Europe,Western Europe
+Monaco,2006,0,0,0,32965,Europe,Western Europe
+Monaco,2007,,,,32965,Europe,Western Europe
+Monaco,2008,,,,32965,Europe,Western Europe
+Monaco,2009,,,,32965,Europe,Western Europe
+Monaco,2010,,,,32965,Europe,Western Europe
+Netherlands,1995,,,,16645000,Europe,Western Europe
+Netherlands,1996,,,,16645000,Europe,Western Europe
+Netherlands,1997,,,,16645000,Europe,Western Europe
+Netherlands,1998,,,,16645000,Europe,Western Europe
+Netherlands,1999,,,,16645000,Europe,Western Europe
+Netherlands,2000,,,,16645000,Europe,Western Europe
+Netherlands,2001,,,,16645000,Europe,Western Europe
+Netherlands,2002,,,,16645000,Europe,Western Europe
+Netherlands,2003,,,,16645000,Europe,Western Europe
+Netherlands,2004,29.9107142857143,67,0.412940673183281,16645000,Europe,Western Europe
+Netherlands,2005,32.3232323232323,64,0.392506631368872,16645000,Europe,Western Europe
+Netherlands,2006,26.875,43,0.262547976826661,16645000,Europe,Western Europe
+Netherlands,2007,28.6585365853659,47,0.285827522064516,16645000,Europe,Western Europe
+Netherlands,2008,29.5454545454545,52,0.31508920387441,16645000,Europe,Western Europe
+Netherlands,2009,30.7262569832402,55,0.332140285428076,16645000,Europe,Western Europe
+Netherlands,2010,,,,16645000,Europe,Western Europe
+Switzerland,1995,,,,7581000,Europe,Western Europe
+Switzerland,1996,,,,7581000,Europe,Western Europe
+Switzerland,1997,,,,7581000,Europe,Western Europe
+Switzerland,1998,86.8421052631579,66,0.927885315624408,7581000,Europe,Western Europe
+Switzerland,1999,80.8988764044944,72,1.008863991122,7581000,Europe,Western Europe
+Switzerland,2000,57.9710144927536,40,0.558042876666386,7581000,Europe,Western Europe
+Switzerland,2001,54.6511627906977,47,0.652054450153698,7581000,Europe,Western Europe
+Switzerland,2002,79.0697674418605,68,0.937287861088425,7581000,Europe,Western Europe
+Switzerland,2003,64.3835616438356,47,0.64321196516583,7581000,Europe,Western Europe
+Switzerland,2004,72.1518987341772,57,0.774327011338185,7581000,Europe,Western Europe
+Switzerland,2005,,,,7581000,Europe,Western Europe
+Switzerland,2006,,,,7581000,Europe,Western Europe
+Switzerland,2007,,,,7581000,Europe,Western Europe
+Switzerland,2008,,,,7581000,Europe,Western Europe
+Switzerland,2009,,,,7581000,Europe,Western Europe
+Switzerland,2010,,,,7581000,Europe,Western Europe
+Australia,1995,17.7914110429448,58,0.320116283895899,21515754,Oceania,Australia and new Zealand
+Australia,1996,31.7307692307692,99,0.540403720881587,21515754,Oceania,Australia and new Zealand
+Australia,1997,23.3644859813084,75,0.404854955853806,21515754,Oceania,Australia and new Zealand
+Australia,1998,18.9473684210526,54,0.28823246140167,21515754,Oceania,Australia and new Zealand
+Australia,1999,18.0758017492711,62,0.327213145693131,21515754,Oceania,Australia and new Zealand
+Australia,2000,19.8675496688742,60,0.313081303927276,21515754,Oceania,Australia and new Zealand
+Australia,2001,16.1290322580645,50,0.257968811364331,21515754,Oceania,Australia and new Zealand
+Australia,2002,13.2075471698113,42,0.214241434079109,21515754,Oceania,Australia and new Zealand
+Australia,2003,12.2516556291391,37,0.186490807515277,21515754,Oceania,Australia and new Zealand
+Australia,2004,12.1212121212121,32,0.159173713336698,21515754,Oceania,Australia and new Zealand
+Australia,2005,8.88030888030888,23,0.112725647339283,21515754,Oceania,Australia and new Zealand
+Australia,2006,16.3701067615658,46,0.221747714251075,21515754,Oceania,Australia and new Zealand
+Australia,2007,13.3333333333333,34,0.160984939953564,21515754,Oceania,Australia and new Zealand
+Australia,2008,11.787072243346,31,0.144093444691846,21515754,Oceania,Australia and new Zealand
+Australia,2009,11.4503816793893,30,0.13697191619145,21515754,Oceania,Australia and new Zealand
+Australia,2010,,,,21515754,Oceania,Australia and new Zealand
+New Zealand,1995,22.5,9,0.244893960914924,4252277,Oceania,Australia and new Zealand
+New Zealand,1996,16.3636363636364,9,0.242108474280817,4252277,Oceania,Australia and new Zealand
+New Zealand,1997,19.6969696969697,13,0.346469779440004,4252277,Oceania,Australia and new Zealand
+New Zealand,1998,7.54716981132075,4,0.105723053176053,4252277,Oceania,Australia and new Zealand
+New Zealand,1999,10,5,0.130980332779112,4252277,Oceania,Australia and new Zealand
+New Zealand,2000,13.4615384615385,7,0.181439656280715,4252277,Oceania,Australia and new Zealand
+New Zealand,2001,11.7647058823529,6,0.153577196857811,4252277,Oceania,Australia and new Zealand
+New Zealand,2002,16.6666666666667,10,0.252399180409381,4252277,Oceania,Australia and new Zealand
+New Zealand,2003,,,,4252277,Oceania,Australia and new Zealand
+New Zealand,2004,,,,4252277,Oceania,Australia and new Zealand
+New Zealand,2005,14.7540983606557,9,0.217700660140968,4252277,Oceania,Australia and new Zealand
+New Zealand,2006,18.3673469387755,9,0.21505874807612,4252277,Oceania,Australia and new Zealand
+New Zealand,2007,10.4166666666667,5,0.118134579385374,4252277,Oceania,Australia and new Zealand
+New Zealand,2008,13.4615384615385,7,0.163635169312141,4252277,Oceania,Australia and new Zealand
+New Zealand,2009,,,,4252277,Oceania,Australia and new Zealand
+New Zealand,2010,,,,4252277,Oceania,Australia and new Zealand
+Solomon Islands,1995,,,,559198,Oceania,Melanesia
+Solomon Islands,1996,,,,559198,Oceania,Melanesia
+Solomon Islands,1997,,,,559198,Oceania,Melanesia
+Solomon Islands,1998,,,,559198,Oceania,Melanesia
+Solomon Islands,1999,,,,559198,Oceania,Melanesia
+Solomon Islands,2000,,,,559198,Oceania,Melanesia
+Solomon Islands,2001,,,,559198,Oceania,Melanesia
+Solomon Islands,2002,,,,559198,Oceania,Melanesia
+Solomon Islands,2003,,,,559198,Oceania,Melanesia
+Solomon Islands,2004,0,0,0,559198,Oceania,Melanesia
+Solomon Islands,2005,0,0,0,559198,Oceania,Melanesia
+Solomon Islands,2006,0,0,0,559198,Oceania,Melanesia
+Solomon Islands,2007,0,0,0,559198,Oceania,Melanesia
+Solomon Islands,2008,0,0,0,559198,Oceania,Melanesia
+Solomon Islands,2009,,,,559198,Oceania,Melanesia
+Solomon Islands,2010,,,,559198,Oceania,Melanesia

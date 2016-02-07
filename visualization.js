@@ -2,7 +2,7 @@ $(document).ready(function(){
 	initEvents();
 	$.event.trigger('loading.app', true);
 
-	data.load('https://raw.githubusercontent.com/deeptowncitizen/homicide-visualize/master/Homicides_by_firearms.csv')
+	data.load('https://raw.githubusercontent.com/deeptowncitizen/homicide-visualize/master/data/Homicides_by_firearms.csv')
 							.then(function(data){
 								console.log(data);
 								$.event.trigger('loading.app', false);

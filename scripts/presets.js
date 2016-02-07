@@ -25,6 +25,7 @@ var presets = (function(){
         
         result.push.apply(result, getPrecentHomicidesByRegion(data));
         result.push.apply(result, getPrecentHomicidesBySubregion(data));
+        result.push.apply(result, getPrecentHomicidesByCountry(data));
         return result;
     }
     
@@ -175,5 +176,61 @@ var presets = (function(){
         );
         
         return result;
+    }
+    
+    function getPrecentHomicidesByCountry(data) {
+        var results = [];
+        var countries = $(data.getCsvData()).map(function(i, e){ return e.country; });
+        countries = $.unique(countries);
+        
+        $.each(countries, function(i, cntry) {
+            var callback = function(data, country) {
+                var result = [];
+                var countryDict = $.grep(data.getCsvData(), function(e, i){
+                     return e.country == country;
+                });
+                var countryDictByYear = data.dictByYear(countryDict);
+                    
+                
+                $.each(countryDictByYear, function(countryYear, e) {
+                    var item = [];
+                    var percentSum = 0;
+                    var nanCount = 0;
+                    for(var i = 0; i < e.length; i++) {
+                        if (isNaN(e[i].percentageHomicidesByFirearms))
+                            nanCount++;
+                        else
+                            percentSum += e[i].percentageHomicidesByFirearms;
+                    }
+                    var avg = percentSum / e.length;
+                    var nanAvg = nanCount / e.length * 100;
+                    item.push(countryYear);
+                    item.push(avg);
+                    item.push(nanAvg);
+                    result.push(item);
+                });
+                
+                return result;
+            };
+        
+            var result = new Preset(
+                'Homicide with firearms (' + cntry + '), %',
+                {
+                    labels: ['Year', '%', 'NaN'],
+                    ylabel: 'homicides by country, %',
+                    xlabel: 'Year'
+                },
+                function(country){
+                    var c = country;
+                    return function(data) {
+                        return callback(data, c);
+                    }
+                }(cntry)
+            );
+
+            results.push(result);
+        });
+        
+        return results;
     }
 })();

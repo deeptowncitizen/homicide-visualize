@@ -43,7 +43,7 @@ var series = (function(){
         var _csvDataByRegion = {};
         var _csvDataBySubregion = {};
         
-        this.getCsvData = function() { return _csvData; }
+        this.getCsvData = function() { return _csvData; };
         
         this.getCsvDataByYear = function() {
             if (_csvDataByYear.length > 0)
@@ -59,7 +59,7 @@ var series = (function(){
 
             _csvDataByYear.sort;
             return _csvDataByYear;
-        }
+        };
         
         this.getCsvDataByRegion = function() {
             if (_csvDataByRegion.length > 0)
@@ -75,7 +75,7 @@ var series = (function(){
 
             _csvDataByRegion.sort;
             return _csvDataByRegion;
-        }
+        };
         
         this.getCsvDataBySubregion = function() {
             if (_csvDataBySubregion.length > 0)
@@ -91,7 +91,7 @@ var series = (function(){
 
             _csvDataBySubregion.sort;
             return _csvDataBySubregion;
-        }
+        };
         
         this.dictByYear = function(dict) {
             var results = {};

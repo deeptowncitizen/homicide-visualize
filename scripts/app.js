@@ -3,7 +3,7 @@ $(document).ready(function(){
 
 	$.event.trigger('loading.app', true);
 
-	data.load('https://raw.githubusercontent.com/deeptowncitizen/homicide-visualize/master/data/Homicides_by_firearms.csv')
+	series.load('https://raw.githubusercontent.com/deeptowncitizen/homicide-visualize/master/data/Homicides_by_firearms.csv')
 							.then(function(data){
 								start(data);
 								$.event.trigger('loading.app', false);
@@ -16,8 +16,8 @@ $(document).ready(function(){
 							});
 });
 
-function start(csvData) {
-	var app = new App(csvData);
+function start(data) {
+	var app = new App(data);
     app.loadPreset(0);
 
 	$('button[type=submit]').click(function(e){
@@ -28,12 +28,12 @@ function start(csvData) {
 	});
 }
 
-function App(csvData) {
+function App(data) {
 	var _chartId = 0;
-	var _csvData = csvData;
-    var _yearDictData = data.csvDataToDateDict(_csvData);
+	var _data = data;
+    var _yearDictData = data.getCsvDataByYear();
 	var _panels = [];
-    var _presets = presets.all;
+    var _presets = presets.load(_data);
 
 	function initDashboard() {
 		$( ".column" ).sortable({
@@ -97,7 +97,7 @@ function App(csvData) {
         var chartOptions = new graph.ChartOptions();
         chartOptions.title = preset.getTitle();
         chartOptions.options = preset.getOptions();
-        chartOptions.data = preset.getData(new presets.PresetData(_csvData, _yearDictData));
+        chartOptions.data = preset.getData(_data);
         var chart = new graph.Chart(chartOptions);
         
         this.addPanel(preset.getTitle(), chart);

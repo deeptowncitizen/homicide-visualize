@@ -30,7 +30,7 @@ function start(csvData) {
 
 function getChart(csvData) {
 	var yearDictData = Data.csvDataToDateDict(csvData);
-	var labels = ['x', 'A'];
+	var labels = ['Year', 'Avg %'];
 	var data = [];
 	var index = 1;
 	for(var year in yearDictData) {

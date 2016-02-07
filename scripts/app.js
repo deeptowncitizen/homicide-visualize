@@ -22,8 +22,9 @@ function start(csvData) {
 	var app = new App(csvData);
 	app.addPanel("Average homicides by firearms", chart);
 
-	$('button[type=submit]').click(function(){
+	$('button[type=submit]').click(function(e){
 		app.addPanel("Average homicides by firearms", chart);
+		e.preventDefault();
 	});
 }
 
@@ -78,10 +79,12 @@ function App(csvData) {
 
 				return true;
 			});
+			e.preventDefault();
 		}));
 
-		$('.clear-dashboard').click(function(){
+		$('.clear-dashboard').click(function(e){
 			closeAllPanels();
+			e.preventDefault();
 		});
 	}
 

@@ -130,7 +130,7 @@ var presets = (function(){
             };
         
             var result = new Preset(
-                'Per 100k average homicides by region (' + regionName + '), Avg. qnty',
+                'Per 100k homicides by firearms by region (' + regionName + '), Avg. qnty',
                 {
                     labels: ['Year', 'Per 100k', 'NaN'],
                     ylabel: 'Avg homicides per 100k by region, qnty',
@@ -295,7 +295,7 @@ var presets = (function(){
             };
         
             var result = new Preset(                
-                'Per 100k average homicidex by subregion (' + subregionName + '), Avg. qnty',
+                'Per 100k homicides by firearms by subregion (' + subregionName + '), Avg. qnty',
                 {
                     labels: ['Year', 'Per 100k', 'NaN'],
                     ylabel: 'Avg homicides per 100k by subregion, qnty',
@@ -436,7 +436,7 @@ var presets = (function(){
         };
     
         var result = new Preset(
-            'Per 100k average homicides in the world by firearms, Avg. qnty',
+            'Per 100k homicides by firearms in the world, Avg. qnty',
             {
                 labels: ['Year', 'Per 100k', 'NaN'],
                 ylabel: 'Avg homicides per 100k by firearms, qnty',
@@ -581,7 +581,7 @@ var presets = (function(){
             };
         
             var result = new Preset(
-                'Per 100k average homicides with firearms per 100k in ' + cntry + ', Avg. qnty',
+                'Per 100k homicides by firearms by country (' + cntry + '), Avg. qnty',
                 {
                     labels: ['Year', 'Per 100k', 'NaN'],
                     ylabel: 'Homicides per 100k by country, qnty',

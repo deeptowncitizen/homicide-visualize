@@ -18,13 +18,14 @@ var series = (function(){
 	}
 
 	function DataItem(row) {
+        console.log(row);
 		this.isValid = false;
 		if (!row)
 			return;
 
 		var items = row.split(',');
 		if (items.length != 16) //should be implemented
-			return;
+			throw row;
 
 		this.country = items[0];
 		this.region = items[6];
@@ -107,7 +108,6 @@ var series = (function(){
     }
     
     Data.parseCsv = function(csvData) {
-        console.log(csvData);
 		var result = [];
 		var lines = csvData.split('\n');
 		for(var i = 1; i < lines.length-1; i++) {

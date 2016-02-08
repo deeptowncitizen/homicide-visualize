@@ -23,7 +23,7 @@ var series = (function(){
 			return;
 
 		var items = row.split(',');
-		if (items.length != 8)
+		if (items.length != 16) //should be implemented
 			return;
 
 		this.country = items[0];

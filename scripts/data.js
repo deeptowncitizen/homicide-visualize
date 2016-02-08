@@ -18,7 +18,6 @@ var series = (function(){
 	}
 
 	function DataItem(row) {
-        console.log(row);
 		this.isValid = false;
 		if (!row)
 			return;

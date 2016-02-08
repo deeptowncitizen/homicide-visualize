@@ -112,7 +112,7 @@ function App(data) {
         $('#presets-list').select2({ containerCssClass : "span3" });
         
         $('.button-about').click(function(e){
-            $.event.trigger("modal.app", {title: 'About', text: 'about.template'});
+            $.event.trigger("modal.app", {title: 'About', text: 'about.html'});
             e.preventDefault();
         });
     }
@@ -195,7 +195,7 @@ function initEvents() {
 	});
     
     $(document).on('modal.app', function(e, info){
-        if (!info.text.match(/\.template/)) {
+        if (!info.text.match(/\.html/)) {
             $('#modal-window').on('show.bs.modal', function (event) {
                 var modal = $(this);
                 modal.find('.modal-title').text(info.title);
@@ -206,7 +206,7 @@ function initEvents() {
             return;
         }
         
-        $.get('https://raw.githubusercontent.com/deeptowncitizen/homicide-visualize/master/about.html')
+        $.get('https://raw.githubusercontent.com/deeptowncitizen/homicide-visualize/master/' + info.text)
 				.done(function(aboutHtml){
                     $('#modal-window').on('show.bs.modal', function (event) {
                         var modal = $(this);
@@ -219,8 +219,4 @@ function initEvents() {
 					$.event.trigger('error.app', {title: 'Error loading about page', text: e});
 				});
 	});
-}
-
-function getAbout() {
-
 }

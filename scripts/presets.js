@@ -25,13 +25,15 @@ var presets = (function(){
         
         result.push.apply(result, getPrecentHomicidesByRegion(data));
         result.push.apply(result, getHomicidesPer100KByRegion(data));
+        result.push.apply(result, getNumberOfHomicidesRegion(data));
         
         result.push.apply(result, getPrecentHomicidesBySubregion(data));
         result.push.apply(result, getHomicidesPer100KBySubregion(data));
+        result.push.apply(result, getNumberOfHomicidesBySubregion(data));
         
         result.push.apply(result, getPrecentHomicidesByCountry(data));
         result.push.apply(result, getHomicidesPer100KByCountry(data));
-        
+        result.push.apply(result, getNumberOfHomicidesByCountry(data));
 
         return result;
     }
@@ -129,7 +131,62 @@ var presets = (function(){
                 'Average homicides per 100k by region (' + regionName + ')',
                 {
                     labels: ['Year', 'Per 100k', 'NaN'],
-                    ylabel: 'Avg homicides per 100k by region, count',
+                    ylabel: 'Avg homicides per 100k by region, qnty',
+                    xlabel: 'Year'
+                },
+                function(region){
+                    var rgn = region;
+                    return function(data) {
+                        return callback(data, rgn);
+                    }
+                }(regionName)
+            );
+            
+            results.push(result);
+        }
+        
+        return results;
+    }
+    
+    function getNumberOfHomicidesRegion(data) {
+        var results = [];
+        
+        for(var regionName in data.getCsvDataByRegion()) {
+            var callback = function(data, country) {
+                var result = [];
+                var regionsData = data.getCsvDataByRegion();
+                var regionData = regionsData[country];
+                if (!regionData)
+                    return result;
+                    
+                var regionDataByYear = data.dictByYear(regionData);
+                
+                for(var regionYear in regionDataByYear) {
+                    var item = [];
+                    var percentSum = 0;
+                    var nanCount = 0;
+                    for(var i = 0; i < regionDataByYear[regionYear].length; i++) {
+                        if (isNaN(regionDataByYear[regionYear][i].numberOfHomicidesByFirearms))
+                            nanCount++;
+                        else
+                            percentSum += regionDataByYear[regionYear][i].numberOfHomicidesByFirearms;
+                    }
+                    var avg = percentSum / regionDataByYear[regionYear].length;
+                    var nanAvg = nanCount / regionDataByYear[regionYear].length;
+                    item.push(regionYear);
+                    item.push(avg);
+                    item.push(nanAvg);
+                    result.push(item);
+                }
+                
+                return result;
+            };
+        
+            var result = new Preset(
+                'Avg number of homicides by region (' + regionName + ')',
+                {
+                    labels: ['Year', 'Qnty', 'NaN'],
+                    ylabel: 'Number of homicides by region, Avg. qnty',
                     xlabel: 'Year'
                 },
                 function(region){
@@ -239,7 +296,62 @@ var presets = (function(){
                 'Average homicidex per 100k by subregion (' + subregionName + ')',
                 {
                     labels: ['Year', 'Per 100k', 'NaN'],
-                    ylabel: 'Avg homicides per 100k by subregion, count',
+                    ylabel: 'Avg homicides per 100k by subregion, qnty',
+                    xlabel: 'Year'
+                },
+                function(region){
+                    var rgn = region;
+                    return function(data) {
+                        return callback(data, rgn);
+                    }
+                }(subregionName)
+            );
+            
+            results.push(result);
+        }
+        
+        return results;
+    }
+    
+    function getNumberOfHomicidesBySubregion(data) {
+        var results = [];
+        
+        for(var subregionName in data.getCsvDataBySubregion()) {
+            var callback = function(data, country) {
+                var result = [];
+                var subregionsData = data.getCsvDataBySubregion();
+                var subregionData = subregionsData[country];
+                if (!subregionData)
+                    return result;
+                    
+                var subregionDataByYear = data.dictByYear(subregionData);
+                
+                for(var subregionYear in subregionDataByYear) {
+                    var item = [];
+                    var percentSum = 0;
+                    var nanCount = 0;
+                    for(var i = 0; i < subregionDataByYear[subregionYear].length; i++) {
+                        if (isNaN(subregionDataByYear[subregionYear][i].numberOfHomicidesByFirearms))
+                            nanCount++;
+                        else
+                            percentSum += subregionDataByYear[subregionYear][i].numberOfHomicidesByFirearms;
+                    }
+                    var avg = percentSum / subregionDataByYear[subregionYear].length;
+                    var nanAvg = nanCount / subregionDataByYear[subregionYear].length;
+                    item.push(subregionYear);
+                    item.push(avg);
+                    item.push(nanAvg);
+                    result.push(item);
+                }
+                
+                return result;
+            };
+        
+            var result = new Preset(                
+                'Average number of homicides by subregion (' + subregionName + ')',
+                {
+                    labels: ['Year', 'Qnty', 'NaN'],
+                    ylabel: 'Number of homicides by subregion, Avg. qnty',
                     xlabel: 'Year'
                 },
                 function(region){
@@ -325,7 +437,7 @@ var presets = (function(){
             'Average homicides per 100k by firearms',
             {
                 labels: ['Year', 'Per 100k', 'NaN'],
-                ylabel: 'Avg homicides per 100k by firearms, count',
+                ylabel: 'Avg homicides per 100k by firearms, qnty',
                 xlabel: 'Year'
             },
             callback
@@ -428,10 +540,68 @@ var presets = (function(){
             };
         
             var result = new Preset(
-                'Homicides with firearms per 100k (' + cntry + '), count',
+                'Homicides with firearms per 100k (' + cntry + '), qnty',
                 {
                     labels: ['Year', 'Per 100k', 'NaN'],
-                    ylabel: 'Homicides per 100k by country, count',
+                    ylabel: 'Homicides per 100k by country, qnty',
+                    xlabel: 'Year'
+                },
+                function(country){
+                    var c = country;
+                    return function(data) {
+                        return callback(data, c);
+                    }
+                }(cntry)
+            );
+
+            results.push(result);
+        });
+        
+        return results;
+    }
+    
+    function getNumberOfHomicidesByCountry(data) {
+        var results = [];
+        var countries = $(data.getCsvData()).map(function(i, e){ return e.country; });
+        countries = $.unique(countries);
+        
+        $.each(countries, function(i, cntry) {
+            var callback = function(data, country) {
+                var result = [];
+                var countryDict = $.grep(data.getCsvData(), function(e, i){
+                     return e.country == country;
+                });
+                var countryDictByYear = data.dictByYear(countryDict);
+                    
+                
+                $.each(countryDictByYear, function(countryYear, e) {
+                    var item = [];
+                    var percentSum = 0;
+                    var nanCount = 0;
+                    if (e.length != 1)
+                        throw 'Incorrect country data: ' + country + ' for year: ' + countryYear;
+                        
+                    if (isNaN(e[0].numberOfHomicidesByFirearms))
+                        nanCount++;
+                    else
+                        percentSum += e[0].numberOfHomicidesByFirearms;
+
+                    var avg = percentSum / e.length;
+                    var nanAvg = nanCount / e.length;
+                    item.push(countryYear);
+                    item.push(avg);
+                    item.push(nanAvg);
+                    result.push(item);
+                });
+                
+                return result;
+            };
+        
+            var result = new Preset(
+                'Number of homicides with firearms (' + cntry + '), qnty',
+                {
+                    labels: ['Year', 'Qnty', 'NaN'],
+                    ylabel: 'Number of homicides by country, qnty',
                     xlabel: 'Year'
                 },
                 function(country){

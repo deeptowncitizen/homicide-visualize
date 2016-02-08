@@ -18,9 +18,13 @@ $(document).ready(function(){
 
 function start(data) {
 	var app = new App(data);
-    //app.loadPreset(0);
-    app.loadPresetByTitle('Number of homicides with firearms (United States of America), qnty');
-    app.loadPresetByTitle('Number of homicides with firearms (Ukraine), qnty');
+
+    app.loadPresetByTitle('Per 100k homicides by firearms in the world, Avg. qnty');
+    app.loadPresetByTitle('Number of homicides by firearms in the world, Avg. qnty');
+    app.loadPresetByTitle('Number of homicides with firearms (United States of America), Avg. qnty');
+    app.loadPresetByTitle('Number of homicides with firearms (Ukraine), Avg. qnty');
+    app.loadPresetByTitle('Number of homicides with firearms (Germany), Avg. qnty');
+    app.loadPresetByTitle('Number of homicides with firearms (Switzerland), Avg. qnty');
 
 	$('button[type=submit]').click(function(e){
         var id = parseInt($('#presets-list').select2('data')[0].id);

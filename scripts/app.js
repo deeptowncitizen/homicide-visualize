@@ -110,6 +110,11 @@ function App(data) {
            $("#presets-list").append($('<option></option>').attr("value", i).text(e.getTitle()));
         });
         $('#presets-list').select2({ containerCssClass : "span3" });
+        
+        $('.button-about').click(function(e){
+            $.event.trigger("modal.app", {title: 'About', text: 'hgjhg'});
+            e.preventDefault();
+        });
     }
     
     ctor();
@@ -172,4 +177,17 @@ function initEvents() {
 		if (info.terminate)
 			$.event.trigger('terminate.app', info);
 	});
+    
+    $(document).on('modal.app', function(e, info){
+        $('#modal-window').on('show.bs.modal', function (event) {
+            var modal = $(this);
+            modal.find('.modal-title').text(info.title);
+            modal.find('.modal-body').load('about.html'); //html(info.text);
+        });
+        $('#modal-window').modal();
+	});
+}
+
+function getAbout() {
+
 }

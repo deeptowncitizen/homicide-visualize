@@ -26,6 +26,8 @@ var presets = (function(){
         result.push.apply(result, getPrecentHomicidesByRegion(data));
         result.push.apply(result, getPrecentHomicidesBySubregion(data));
         result.push.apply(result, getPrecentHomicidesByCountry(data));
+        result.push.apply(result, getHomicidesPer100KByCountry(data));
+
         return result;
     }
     
@@ -64,7 +66,7 @@ var presets = (function(){
             };
         
             var result = new Preset(
-                'Average % by region (' + regionName + ')',
+                'Average homicides % by region (' + regionName + ')',
                 {
                     labels: ['Year', '%', 'NaN'],
                     ylabel: 'Avg homicides by region, %',
@@ -119,7 +121,7 @@ var presets = (function(){
             };
         
             var result = new Preset(
-                'Average % by subregion (' + subregionName + ')',
+                'Average homicidex % by subregion (' + subregionName + ')',
                 {
                     labels: ['Year', '%', 'NaN'],
                     ylabel: 'Avg homicides by subregion, %',
@@ -214,10 +216,68 @@ var presets = (function(){
             };
         
             var result = new Preset(
-                'Homicide with firearms (' + cntry + '), %',
+                'Homicides with firearms (' + cntry + '), %',
                 {
                     labels: ['Year', '%', 'NaN'],
-                    ylabel: 'homicides by country, %',
+                    ylabel: 'Homicides by country, %',
+                    xlabel: 'Year'
+                },
+                function(country){
+                    var c = country;
+                    return function(data) {
+                        return callback(data, c);
+                    }
+                }(cntry)
+            );
+
+            results.push(result);
+        });
+        
+        return results;
+    }
+    
+    function getHomicidesPer100KByCountry(data) {
+        var results = [];
+        var countries = $(data.getCsvData()).map(function(i, e){ return e.country; });
+        countries = $.unique(countries);
+        
+        $.each(countries, function(i, cntry) {
+            var callback = function(data, country) {
+                var result = [];
+                var countryDict = $.grep(data.getCsvData(), function(e, i){
+                     return e.country == country;
+                });
+                var countryDictByYear = data.dictByYear(countryDict);
+                    
+                
+                $.each(countryDictByYear, function(countryYear, e) {
+                    var item = [];
+                    var percentSum = 0;
+                    var nanCount = 0;
+                    if (e.length != 1)
+                        throw 'Incorrect country data: ' + country + ' for year: ' + countryYear;
+                        
+                    if (isNaN(e[0].numberHomicidesByFirearmsPer100K))
+                        nanCount++;
+                    else
+                        percentSum += e[0].numberHomicidesByFirearmsPer100K;
+
+                    var avg = percentSum / e.length;
+                    var nanAvg = nanCount / e.length;
+                    item.push(countryYear);
+                    item.push(avg);
+                    item.push(nanAvg);
+                    result.push(item);
+                });
+                
+                return result;
+            };
+        
+            var result = new Preset(
+                'Homicides with firearms per 100k (' + cntry + '), count',
+                {
+                    labels: ['Year', 'Per 100k', 'NaN'],
+                    ylabel: 'Homicides per 100k by country, count',
                     xlabel: 'Year'
                 },
                 function(country){

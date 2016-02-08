@@ -130,3 +130,7 @@ width: 480px;
     left: 50%;
     top: 16px;
 }
+
+.select2-container {
+    max-width: 480px;
+}

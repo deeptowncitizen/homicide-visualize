@@ -91,11 +91,11 @@ function App(data) {
 
 	this.getNextChartId = function(){ return ++_chartId; }
 	
-	this.addPanel = function(title, chart){
+	this.addPanel = function(title, data){
 		var panel = new Panel(this.getNextChartId(), title, getNextColumn());
 		_panels.push(panel);
 
-		panel.drawChart(chart);
+		panel.RenderData(data);
 	};
     
     this.loadPresetByTitle = function(title) {
@@ -129,7 +129,7 @@ function App(data) {
         $.each(_presets, function(i, e){
            $("#presets-list").append($('<option></option>').attr("value", i).text(e.getTitle()));
         });
-        $('#presets-list').select2({ containerCssClass : "span3" });
+        $('#presets-list').select2({ width : "auto" });
         
         $('.button-about').click(function(e){
             $.event.trigger("modal.app", {title: 'About', text: 'about.html'});
@@ -146,7 +146,7 @@ function Panel(id, title, parent) {
 		title: title
 	};
 	var _parent = parent;
-	var _chart = null;
+	var _panelData = null;
 	var _self = null;
 
 	var ctor = function() {
@@ -163,12 +163,12 @@ function Panel(id, title, parent) {
 
 	this.getId = function(){ return _data.id; }
 
-	this.drawChart = function(chart) {
-		_chart = chart;
-		_chart.draw($(_self).find('.chart')[0]);
+	this.RenderData = function(panelData) {
+		_panelData = panelData;
+		_panelData.draw($(_self).find('.panel-data')[0]);
 		var w = $(_self).width() - 20;
 		var h = $(_self).height();
-		_chart.resize(w, h);
+		_panelData.resize(w, h);
 	};
 
 	ctor();

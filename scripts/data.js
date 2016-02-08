@@ -25,7 +25,7 @@ var series = (function(){
 
 		var items = row.split(',');
 		if (items.length != 16) //should be implemented
-			throw row;
+			throw 'Incorrect CSV columns count. expected 16. Actual: ' + row;
 
 		this.country = items[0];
 		this.region = items[6];

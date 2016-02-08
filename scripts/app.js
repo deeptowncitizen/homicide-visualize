@@ -112,7 +112,7 @@ function App(data) {
         $('#presets-list').select2({ containerCssClass : "span3" });
         
         $('.button-about').click(function(e){
-            $.event.trigger("modal.app", {title: 'About', text: 'hgjhg'});
+            $.event.trigger("modal.app", {title: 'About', text: 'about.template'});
             e.preventDefault();
         });
     }
@@ -158,6 +158,22 @@ function Panel(id, title, parent) {
 
 
 function initEvents() {
+    /*
+    $.ajaxPrefilter(function( options, originalOptions, jqXHR ) {
+    var originalSuccess = options.success;
+
+    options.success = function (data) {
+        if(!data) {
+           //forward to error event handler or redirect to login page for example
+        }
+        else {
+            if (originalSuccess != null) {
+                originalSuccess(data);
+            }
+        }   
+    };
+});*/
+
 	$(document).on('terminate.app', function(e, arg){
 		$.event.trigger('loading.app', false);
 		$('#app-terminate .panel-title').text(arg.title);
@@ -179,12 +195,29 @@ function initEvents() {
 	});
     
     $(document).on('modal.app', function(e, info){
-        $('#modal-window').on('show.bs.modal', function (event) {
-            var modal = $(this);
-            modal.find('.modal-title').text(info.title);
-            modal.find('.modal-body').load('about.html'); //html(info.text);
-        });
-        $('#modal-window').modal();
+        if (!info.text.match(/\.template/)) {
+            $('#modal-window').on('show.bs.modal', function (event) {
+                var modal = $(this);
+                modal.find('.modal-title').text(info.title);
+                modal.find('.modal-body').html(info.text);
+            });
+            $('#modal-window').modal();
+            
+            return;
+        }
+        
+        $.get('https://raw.githubusercontent.com/deeptowncitizen/homicide-visualize/master/about.html')
+				.done(function(aboutHtml){
+                    $('#modal-window').on('show.bs.modal', function (event) {
+                        var modal = $(this);
+                        modal.find('.modal-title').text(info.title);
+                        modal.find('.modal-body').html(aboutHtml);
+                    });
+                    $('#modal-window').modal();
+				})
+				.fail(function(e){
+					$.event.trigger('error.app', {title: 'Error loading about page', text: e});
+				});
 	});
 }
 

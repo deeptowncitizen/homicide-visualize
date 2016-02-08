@@ -18,7 +18,9 @@ $(document).ready(function(){
 
 function start(data) {
 	var app = new App(data);
-    app.loadPreset(0);
+    //app.loadPreset(0);
+    app.loadPresetByTitle('Number of homicides with firearms (United States of America), qnty');
+    app.loadPresetByTitle('Number of homicides with firearms (Ukraine), qnty');
 
 	$('button[type=submit]').click(function(e){
         var id = parseInt($('#presets-list').select2('data')[0].id);
@@ -88,6 +90,17 @@ function App(data) {
 
 		panel.drawChart(chart);
 	};
+    
+    this.loadPresetByTitle = function(title) {
+        var index = -1;
+        var preset = $.grep(_presets, function(e, i){ if (e.getTitle() == title) { index = i; return true; } return false; });
+        if (preset.length != 1) {
+            $.event.trigger("error.app", {title: 'Error loading preset', text: "Can't load preset with title: " + title});
+            return;
+        }
+        
+        this.loadPreset(index);
+    };
     
     this.loadPreset = function(index) {
         var preset = _presets[index];

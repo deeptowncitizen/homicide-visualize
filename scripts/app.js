@@ -155,6 +155,13 @@ function Panel(id, title, parent) {
 			.appendTo( _parent );
 
 		_self = $(parent).find('.panel[data-panel-id=' + _data.id + ']');
+        $(window).resize(function(){
+            if (_panelData) {
+                var w = $(_self).width() - 20;
+                var h = $(_self).height();
+                _panelData.resize(w, h);
+            } 
+        });
 	};
 
 	this.close = function() {

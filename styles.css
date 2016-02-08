@@ -135,3 +135,7 @@ width: 480px;
 .select2-container {
     max-width: 480px;
 }
+
+.panel {
+    box-sizing: content-box;
+}

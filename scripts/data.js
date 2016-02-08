@@ -107,6 +107,7 @@ var series = (function(){
     }
     
     Data.parseCsv = function(csvData) {
+        console.log(csvData);
 		var result = [];
 		var lines = csvData.split('\n');
 		for(var i = 1; i < lines.length-1; i++) {
